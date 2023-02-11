@@ -1,5 +1,7 @@
 using BitacoraAPP.Data;
 using BitacoraAPP.Services;
+using Hangfire;
+using Hangfire.SqlServer;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
@@ -18,6 +20,18 @@ builder.Services.AddTransient<IUsuarioEmpleadoService,UsuarioEmpleadoService>();
 builder.Services.AddTransient<IBitacoraService,BitacoraService>();
 builder.Services.AddTransient<IEmailService,EmailService>();
 builder.Services.AddTransient<IExcellReportService,ExcellReportService>();
+builder.Services.AddHangfire(z => z.SetDataCompatibilityLevel(CompatibilityLevel.Version_170).UseSimpleAssemblyNameTypeSerializer()
+.UseRecommendedSerializerSettings().UseSqlServerStorage(connectionString, new SqlServerStorageOptions
+{
+    CommandBatchMaxTimeout = TimeSpan.FromMinutes(5),
+    SlidingInvisibilityTimeout = TimeSpan.FromMinutes(5),
+    QueuePollInterval = TimeSpan.Zero,
+    UseRecommendedIsolationLevel = true,
+    DisableGlobalLocks = true
+
+}));
+
+builder.Services.AddHangfireServer();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -39,7 +53,7 @@ app.UseRouting();
 
 app.UseAuthentication();
 app.UseAuthorization();
-
+app.UseHangfireDashboard(); 
 app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}");

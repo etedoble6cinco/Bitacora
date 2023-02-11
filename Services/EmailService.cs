@@ -6,17 +6,19 @@ namespace BitacoraAPP.Services
 {
     public interface IEmailService
     {
-        Task<bool> SendEmailFileAsyncService(EmailConfiguration emailConfiguration);
+        Task<bool> SendEmailFileAsyncService(EmailConfiguration emailConfiguration, string FileName);
        
     }
     public class EmailService : IEmailService
     {
-        public async Task<bool>SendEmailFileAsyncService(EmailConfiguration emailConfiguration)
+        
+        public async Task<bool>SendEmailFileAsyncService(EmailConfiguration emailConfiguration, string FileName)
         {
             //string to = "oanaya@smimx.net";
             // string to2 = "aplumeda@smimx.net";
             string to = emailConfiguration.to;
             string from = emailConfiguration.from;
+
             MailMessage message = new MailMessage();
             message.From = new MailAddress(from, emailConfiguration.EmailHeader);
             message.Subject = emailConfiguration.EmailSubject;
@@ -28,7 +30,7 @@ namespace BitacoraAPP.Services
             client.EnableSsl = true;
             client.UseDefaultCredentials = false;
             client.Credentials = new NetworkCredential(from, emailConfiguration.Password);
-            message.Attachments.Add(new Attachment(Path.Combine(Directory.GetCurrentDirectory(), "wwwroot//Excel", emailConfiguration.EmailFileLocation)));
+            message.Attachments.Add(new Attachment(Path.Combine(Directory.GetCurrentDirectory(), "wwwroot//Excel", emailConfiguration.FileNameEmailAttatch)));
             try
             {
                await client.SendMailAsync(message);

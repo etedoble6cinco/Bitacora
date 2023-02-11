@@ -1,5 +1,5 @@
 ﻿using BitacoraAPP.Data;
-using BitacoraAPP.Models;
+using BitacoraAPP.Models.EmpleadoUserViewModel;
 using Dapper;
 using Microsoft.Data.SqlClient;
 

@@ -1,4 +1,4 @@
-﻿namespace BitacoraAPP.Models
+﻿namespace BitacoraAPP.Models.EmpleadoUserViewModel
 {
     public class ListaEmpleadosDashboard
     {

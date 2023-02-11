@@ -2,14 +2,16 @@
 {
     public class EmailConfiguration
     {
-        public string from { get; set; }    
-        public string to { get; set; }  
-        public string SmtpServer { get; set; }  
-        public int Port { get; set; }   
-        public string UserName { get; set; }
-        public string Password { get; set; }    
-        public string EmailHeader { get; set; }
-        public string EmailSubject { get; set; }    
-        public string EmailFileLocation { get; set; }
+        public string from { get; set; } = "analista.sistemas@smimx.net";
+        public string to { get; set; } = "analista.sistemas@smimx.net";
+        public string SmtpServer { get; set; } = "smtp.office365.com";
+        public int Port { get; set; } = 587;
+        public string UserName { get; set; } = "analista.sistemas@smimx.net";
+        public string Password { get; set; } = "Suq70797";
+        public string EmailHeader { get; set; } = "Reporte de Entradas/Salidas";
+        public string EmailSubject { get; set; } = "TESTING HANGFIRE";
+
     }
 }
+
+

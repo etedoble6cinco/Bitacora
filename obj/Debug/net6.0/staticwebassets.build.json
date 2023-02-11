@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "0QybpSNeUty1QXfRn/dGrxpvy0hYusu7bpUGjdvQeDw=",
+  "Hash": "HfsOjnQ5D4NwCJGkcOLjHtN1UcVkGuVl+NRnUdRgaVI=",
   "Source": "BitacoraAPP",
   "BasePath": "_content/BitacoraAPP",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "BitacoraAPP\\wwwroot",
       "Source": "BitacoraAPP",
-      "ContentRoot": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\",
       "BasePath": "_content/BitacoraAPP",
       "Pattern": "**"
     }
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "C:\\Users\\analista.sistemas\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.13\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BitacoraAPP.styles.css",
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BitacoraAPP.styles.css",
       "SourceId": "BitacoraAPP",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/BitacoraAPP",
       "RelativePath": "BitacoraAPP.styles.css",
       "AssetKind": "All",
@@ -1051,13 +1051,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BitacoraAPP.styles.css"
+      "OriginalItemSpec": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BitacoraAPP.styles.css"
     },
     {
-      "Identity": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BitacoraAPP.bundle.scp.css",
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BitacoraAPP.bundle.scp.css",
       "SourceId": "BitacoraAPP",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/BitacoraAPP",
       "RelativePath": "BitacoraAPP.bundle.scp.css",
       "AssetKind": "All",
@@ -1068,13 +1068,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BitacoraAPP.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BitacoraAPP.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\css\\site.css",
       "SourceId": "BitacoraAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\",
       "BasePath": "_content/BitacoraAPP",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\favicon.ico",
       "SourceId": "BitacoraAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\",
       "BasePath": "_content/BitacoraAPP",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\js\\site.js",
       "SourceId": "BitacoraAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\",
       "BasePath": "_content/BitacoraAPP",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\css\\adminlte.css",
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\css\\adminlte.css",
       "SourceId": "BitacoraAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\",
       "BasePath": "_content/BitacoraAPP",
       "RelativePath": "lib/AdminLTE/css/adminlte.css",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\AdminLTE\\css\\adminlte.css"
     },
     {
-      "Identity": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\css\\adminlte.css.map",
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\css\\adminlte.css.map",
       "SourceId": "BitacoraAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\",
       "BasePath": "_content/BitacoraAPP",
       "RelativePath": "lib/AdminLTE/css/adminlte.css.map",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\AdminLTE\\css\\adminlte.css.map"
     },
     {
-      "Identity": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\css\\adminlte.min.css",
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\css\\adminlte.min.css",
       "SourceId": "BitacoraAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\",
       "BasePath": "_content/BitacoraAPP",
       "RelativePath": "lib/AdminLTE/css/adminlte.min.css",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\AdminLTE\\css\\adminlte.min.css"
     },
     {
-      "Identity": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\css\\adminlte.min.css.map",
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\css\\adminlte.min.css.map",
       "SourceId": "BitacoraAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\",
       "BasePath": "_content/BitacoraAPP",
       "RelativePath": "lib/AdminLTE/css/adminlte.min.css.map",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\AdminLTE\\css\\adminlte.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\css\\alt\\adminlte.components.css",
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\css\\alt\\adminlte.components.css",
       "SourceId": "BitacoraAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\",
       "BasePath": "_content/BitacoraAPP",
       "RelativePath": "lib/AdminLTE/css/alt/adminlte.components.css",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\AdminLTE\\css\\alt\\adminlte.components.css"
     },
     {
-      "Identity": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\css\\alt\\adminlte.components.css.map",
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\css\\alt\\adminlte.components.css.map",
       "SourceId": "BitacoraAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\",
       "BasePath": "_content/BitacoraAPP",
       "RelativePath": "lib/AdminLTE/css/alt/adminlte.components.css.map",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\AdminLTE\\css\\alt\\adminlte.components.css.map"
     },
     {
-      "Identity": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\css\\alt\\adminlte.components.min.css",
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\css\\alt\\adminlte.components.min.css",
       "SourceId": "BitacoraAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\",
       "BasePath": "_content/BitacoraAPP",
       "RelativePath": "lib/AdminLTE/css/alt/adminlte.components.min.css",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\AdminLTE\\css\\alt\\adminlte.components.min.css"
     },
     {
-      "Identity": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\css\\alt\\adminlte.components.min.css.map",
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\css\\alt\\adminlte.components.min.css.map",
       "SourceId": "BitacoraAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\",
       "BasePath": "_content/BitacoraAPP",
       "RelativePath": "lib/AdminLTE/css/alt/adminlte.components.min.css.map",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\AdminLTE\\css\\alt\\adminlte.components.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\css\\alt\\adminlte.core.css",
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\css\\alt\\adminlte.core.css",
       "SourceId": "BitacoraAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\",
       "BasePath": "_content/BitacoraAPP",
       "RelativePath": "lib/AdminLTE/css/alt/adminlte.core.css",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\AdminLTE\\css\\alt\\adminlte.core.css"
     },
     {
-      "Identity": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\css\\alt\\adminlte.core.css.map",
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\css\\alt\\adminlte.core.css.map",
       "SourceId": "BitacoraAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\",
       "BasePath": "_content/BitacoraAPP",
       "RelativePath": "lib/AdminLTE/css/alt/adminlte.core.css.map",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\AdminLTE\\css\\alt\\adminlte.core.css.map"
     },
     {
-      "Identity": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\css\\alt\\adminlte.core.min.css",
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\css\\alt\\adminlte.core.min.css",
       "SourceId": "BitacoraAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\",
       "BasePath": "_content/BitacoraAPP",
       "RelativePath": "lib/AdminLTE/css/alt/adminlte.core.min.css",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\AdminLTE\\css\\alt\\adminlte.core.min.css"
     },
     {
-      "Identity": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\css\\alt\\adminlte.core.min.css.map",
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\css\\alt\\adminlte.core.min.css.map",
       "SourceId": "BitacoraAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\",
       "BasePath": "_content/BitacoraAPP",
       "RelativePath": "lib/AdminLTE/css/alt/adminlte.core.min.css.map",
       "AssetKind": "All",
@@ -1326,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\AdminLTE\\css\\alt\\adminlte.core.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\css\\alt\\adminlte.extra-components.css",
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\css\\alt\\adminlte.extra-components.css",
       "SourceId": "BitacoraAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\",
       "BasePath": "_content/BitacoraAPP",
       "RelativePath": "lib/AdminLTE/css/alt/adminlte.extra-components.css",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\AdminLTE\\css\\alt\\adminlte.extra-components.css"
     },
     {
-      "Identity": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\css\\alt\\adminlte.extra-components.css.map",
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\css\\alt\\adminlte.extra-components.css.map",
       "SourceId": "BitacoraAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\",
       "BasePath": "_content/BitacoraAPP",
       "RelativePath": "lib/AdminLTE/css/alt/adminlte.extra-components.css.map",
       "AssetKind": "All",
@@ -1360,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\AdminLTE\\css\\alt\\adminlte.extra-components.css.map"
     },
     {
-      "Identity": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\css\\alt\\adminlte.extra-components.min.css",
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\css\\alt\\adminlte.extra-components.min.css",
       "SourceId": "BitacoraAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\",
       "BasePath": "_content/BitacoraAPP",
       "RelativePath": "lib/AdminLTE/css/alt/adminlte.extra-components.min.css",
       "AssetKind": "All",
@@ -1377,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\AdminLTE\\css\\alt\\adminlte.extra-components.min.css"
     },
     {
-      "Identity": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\css\\alt\\adminlte.extra-components.min.css.map",
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\css\\alt\\adminlte.extra-components.min.css.map",
       "SourceId": "BitacoraAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\",
       "BasePath": "_content/BitacoraAPP",
       "RelativePath": "lib/AdminLTE/css/alt/adminlte.extra-components.min.css.map",
       "AssetKind": "All",
@@ -1394,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\AdminLTE\\css\\alt\\adminlte.extra-components.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\css\\alt\\adminlte.light.css",
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\css\\alt\\adminlte.light.css",
       "SourceId": "BitacoraAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\",
       "BasePath": "_content/BitacoraAPP",
       "RelativePath": "lib/AdminLTE/css/alt/adminlte.light.css",
       "AssetKind": "All",
@@ -1411,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\AdminLTE\\css\\alt\\adminlte.light.css"
     },
     {
-      "Identity": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\css\\alt\\adminlte.light.css.map",
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\css\\alt\\adminlte.light.css.map",
       "SourceId": "BitacoraAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\",
       "BasePath": "_content/BitacoraAPP",
       "RelativePath": "lib/AdminLTE/css/alt/adminlte.light.css.map",
       "AssetKind": "All",
@@ -1428,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\AdminLTE\\css\\alt\\adminlte.light.css.map"
     },
     {
-      "Identity": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\css\\alt\\adminlte.light.min.css",
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\css\\alt\\adminlte.light.min.css",
       "SourceId": "BitacoraAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\",
       "BasePath": "_content/BitacoraAPP",
       "RelativePath": "lib/AdminLTE/css/alt/adminlte.light.min.css",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\AdminLTE\\css\\alt\\adminlte.light.min.css"
     },
     {
-      "Identity": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\css\\alt\\adminlte.light.min.css.map",
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\css\\alt\\adminlte.light.min.css.map",
       "SourceId": "BitacoraAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\",
       "BasePath": "_content/BitacoraAPP",
       "RelativePath": "lib/AdminLTE/css/alt/adminlte.light.min.css.map",
       "AssetKind": "All",
@@ -1462,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\AdminLTE\\css\\alt\\adminlte.light.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\css\\alt\\adminlte.pages.css",
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\css\\alt\\adminlte.pages.css",
       "SourceId": "BitacoraAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\",
       "BasePath": "_content/BitacoraAPP",
       "RelativePath": "lib/AdminLTE/css/alt/adminlte.pages.css",
       "AssetKind": "All",
@@ -1479,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\AdminLTE\\css\\alt\\adminlte.pages.css"
     },
     {
-      "Identity": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\css\\alt\\adminlte.pages.css.map",
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\css\\alt\\adminlte.pages.css.map",
       "SourceId": "BitacoraAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\",
       "BasePath": "_content/BitacoraAPP",
       "RelativePath": "lib/AdminLTE/css/alt/adminlte.pages.css.map",
       "AssetKind": "All",
@@ -1496,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\AdminLTE\\css\\alt\\adminlte.pages.css.map"
     },
     {
-      "Identity": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\css\\alt\\adminlte.pages.min.css",
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\css\\alt\\adminlte.pages.min.css",
       "SourceId": "BitacoraAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\",
       "BasePath": "_content/BitacoraAPP",
       "RelativePath": "lib/AdminLTE/css/alt/adminlte.pages.min.css",
       "AssetKind": "All",
@@ -1513,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\AdminLTE\\css\\alt\\adminlte.pages.min.css"
     },
     {
-      "Identity": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\css\\alt\\adminlte.pages.min.css.map",
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\css\\alt\\adminlte.pages.min.css.map",
       "SourceId": "BitacoraAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\",
       "BasePath": "_content/BitacoraAPP",
       "RelativePath": "lib/AdminLTE/css/alt/adminlte.pages.min.css.map",
       "AssetKind": "All",
@@ -1530,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\AdminLTE\\css\\alt\\adminlte.pages.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\css\\alt\\adminlte.plugins.css",
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\css\\alt\\adminlte.plugins.css",
       "SourceId": "BitacoraAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\",
       "BasePath": "_content/BitacoraAPP",
       "RelativePath": "lib/AdminLTE/css/alt/adminlte.plugins.css",
       "AssetKind": "All",
@@ -1547,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\AdminLTE\\css\\alt\\adminlte.plugins.css"
     },
     {
-      "Identity": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\css\\alt\\adminlte.plugins.css.map",
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\css\\alt\\adminlte.plugins.css.map",
       "SourceId": "BitacoraAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\",
       "BasePath": "_content/BitacoraAPP",
       "RelativePath": "lib/AdminLTE/css/alt/adminlte.plugins.css.map",
       "AssetKind": "All",
@@ -1564,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\AdminLTE\\css\\alt\\adminlte.plugins.css.map"
     },
     {
-      "Identity": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\css\\alt\\adminlte.plugins.min.css",
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\css\\alt\\adminlte.plugins.min.css",
       "SourceId": "BitacoraAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\",
       "BasePath": "_content/BitacoraAPP",
       "RelativePath": "lib/AdminLTE/css/alt/adminlte.plugins.min.css",
       "AssetKind": "All",
@@ -1581,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\AdminLTE\\css\\alt\\adminlte.plugins.min.css"
     },
     {
-      "Identity": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\css\\alt\\adminlte.plugins.min.css.map",
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\css\\alt\\adminlte.plugins.min.css.map",
       "SourceId": "BitacoraAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\",
       "BasePath": "_content/BitacoraAPP",
       "RelativePath": "lib/AdminLTE/css/alt/adminlte.plugins.min.css.map",
       "AssetKind": "All",
@@ -1598,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\AdminLTE\\css\\alt\\adminlte.plugins.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\img\\AdminLTELogo.png",
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\img\\AdminLTELogo.png",
       "SourceId": "BitacoraAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\",
       "BasePath": "_content/BitacoraAPP",
       "RelativePath": "lib/AdminLTE/img/AdminLTELogo.png",
       "AssetKind": "All",
@@ -1615,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\AdminLTE\\img\\AdminLTELogo.png"
     },
     {
-      "Identity": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\img\\avatar.png",
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\img\\avatar.png",
       "SourceId": "BitacoraAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\",
       "BasePath": "_content/BitacoraAPP",
       "RelativePath": "lib/AdminLTE/img/avatar.png",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\AdminLTE\\img\\avatar.png"
     },
     {
-      "Identity": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\img\\avatar2.png",
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\img\\avatar2.png",
       "SourceId": "BitacoraAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\",
       "BasePath": "_content/BitacoraAPP",
       "RelativePath": "lib/AdminLTE/img/avatar2.png",
       "AssetKind": "All",
@@ -1649,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\AdminLTE\\img\\avatar2.png"
     },
     {
-      "Identity": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\img\\avatar3.png",
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\img\\avatar3.png",
       "SourceId": "BitacoraAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\",
       "BasePath": "_content/BitacoraAPP",
       "RelativePath": "lib/AdminLTE/img/avatar3.png",
       "AssetKind": "All",
@@ -1666,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\AdminLTE\\img\\avatar3.png"
     },
     {
-      "Identity": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\img\\avatar4.png",
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\img\\avatar4.png",
       "SourceId": "BitacoraAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\",
       "BasePath": "_content/BitacoraAPP",
       "RelativePath": "lib/AdminLTE/img/avatar4.png",
       "AssetKind": "All",
@@ -1683,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\AdminLTE\\img\\avatar4.png"
     },
     {
-      "Identity": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\img\\avatar5.png",
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\img\\avatar5.png",
       "SourceId": "BitacoraAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\",
       "BasePath": "_content/BitacoraAPP",
       "RelativePath": "lib/AdminLTE/img/avatar5.png",
       "AssetKind": "All",
@@ -1700,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\AdminLTE\\img\\avatar5.png"
     },
     {
-      "Identity": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\img\\credit\\american-express.png",
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\img\\credit\\american-express.png",
       "SourceId": "BitacoraAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\",
       "BasePath": "_content/BitacoraAPP",
       "RelativePath": "lib/AdminLTE/img/credit/american-express.png",
       "AssetKind": "All",
@@ -1717,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\AdminLTE\\img\\credit\\american-express.png"
     },
     {
-      "Identity": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\img\\credit\\cirrus.png",
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\img\\credit\\cirrus.png",
       "SourceId": "BitacoraAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\",
       "BasePath": "_content/BitacoraAPP",
       "RelativePath": "lib/AdminLTE/img/credit/cirrus.png",
       "AssetKind": "All",
@@ -1734,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\AdminLTE\\img\\credit\\cirrus.png"
     },
     {
-      "Identity": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\img\\credit\\mastercard.png",
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\img\\credit\\mastercard.png",
       "SourceId": "BitacoraAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\",
       "BasePath": "_content/BitacoraAPP",
       "RelativePath": "lib/AdminLTE/img/credit/mastercard.png",
       "AssetKind": "All",
@@ -1751,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\AdminLTE\\img\\credit\\mastercard.png"
     },
     {
-      "Identity": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\img\\credit\\paypal.png",
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\img\\credit\\paypal.png",
       "SourceId": "BitacoraAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\",
       "BasePath": "_content/BitacoraAPP",
       "RelativePath": "lib/AdminLTE/img/credit/paypal.png",
       "AssetKind": "All",
@@ -1768,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\AdminLTE\\img\\credit\\paypal.png"
     },
     {
-      "Identity": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\img\\credit\\paypal2.png",
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\img\\credit\\paypal2.png",
       "SourceId": "BitacoraAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\",
       "BasePath": "_content/BitacoraAPP",
       "RelativePath": "lib/AdminLTE/img/credit/paypal2.png",
       "AssetKind": "All",
@@ -1785,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\AdminLTE\\img\\credit\\paypal2.png"
     },
     {
-      "Identity": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\img\\credit\\visa.png",
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\img\\credit\\visa.png",
       "SourceId": "BitacoraAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\",
       "BasePath": "_content/BitacoraAPP",
       "RelativePath": "lib/AdminLTE/img/credit/visa.png",
       "AssetKind": "All",
@@ -1802,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\AdminLTE\\img\\credit\\visa.png"
     },
     {
-      "Identity": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\img\\default-150x150.png",
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\img\\default-150x150.png",
       "SourceId": "BitacoraAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\",
       "BasePath": "_content/BitacoraAPP",
       "RelativePath": "lib/AdminLTE/img/default-150x150.png",
       "AssetKind": "All",
@@ -1819,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\AdminLTE\\img\\default-150x150.png"
     },
     {
-      "Identity": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\img\\icons.png",
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\img\\icons.png",
       "SourceId": "BitacoraAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\",
       "BasePath": "_content/BitacoraAPP",
       "RelativePath": "lib/AdminLTE/img/icons.png",
       "AssetKind": "All",
@@ -1836,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\AdminLTE\\img\\icons.png"
     },
     {
-      "Identity": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\img\\photo1.png",
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\img\\photo1.png",
       "SourceId": "BitacoraAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\",
       "BasePath": "_content/BitacoraAPP",
       "RelativePath": "lib/AdminLTE/img/photo1.png",
       "AssetKind": "All",
@@ -1853,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\AdminLTE\\img\\photo1.png"
     },
     {
-      "Identity": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\img\\photo2.png",
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\img\\photo2.png",
       "SourceId": "BitacoraAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\",
       "BasePath": "_content/BitacoraAPP",
       "RelativePath": "lib/AdminLTE/img/photo2.png",
       "AssetKind": "All",
@@ -1870,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\AdminLTE\\img\\photo2.png"
     },
     {
-      "Identity": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\img\\photo3.jpg",
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\img\\photo3.jpg",
       "SourceId": "BitacoraAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\",
       "BasePath": "_content/BitacoraAPP",
       "RelativePath": "lib/AdminLTE/img/photo3.jpg",
       "AssetKind": "All",
@@ -1887,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\AdminLTE\\img\\photo3.jpg"
     },
     {
-      "Identity": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\img\\photo4.jpg",
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\img\\photo4.jpg",
       "SourceId": "BitacoraAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\",
       "BasePath": "_content/BitacoraAPP",
       "RelativePath": "lib/AdminLTE/img/photo4.jpg",
       "AssetKind": "All",
@@ -1904,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\AdminLTE\\img\\photo4.jpg"
     },
     {
-      "Identity": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\img\\prod-1.jpg",
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\img\\prod-1.jpg",
       "SourceId": "BitacoraAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\",
       "BasePath": "_content/BitacoraAPP",
       "RelativePath": "lib/AdminLTE/img/prod-1.jpg",
       "AssetKind": "All",
@@ -1921,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\AdminLTE\\img\\prod-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\img\\prod-2.jpg",
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\img\\prod-2.jpg",
       "SourceId": "BitacoraAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\",
       "BasePath": "_content/BitacoraAPP",
       "RelativePath": "lib/AdminLTE/img/prod-2.jpg",
       "AssetKind": "All",
@@ -1938,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\AdminLTE\\img\\prod-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\img\\prod-3.jpg",
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\img\\prod-3.jpg",
       "SourceId": "BitacoraAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\",
       "BasePath": "_content/BitacoraAPP",
       "RelativePath": "lib/AdminLTE/img/prod-3.jpg",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\AdminLTE\\img\\prod-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\img\\prod-4.jpg",
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\img\\prod-4.jpg",
       "SourceId": "BitacoraAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\",
       "BasePath": "_content/BitacoraAPP",
       "RelativePath": "lib/AdminLTE/img/prod-4.jpg",
       "AssetKind": "All",
@@ -1972,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\AdminLTE\\img\\prod-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\img\\prod-5.jpg",
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\img\\prod-5.jpg",
       "SourceId": "BitacoraAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\",
       "BasePath": "_content/BitacoraAPP",
       "RelativePath": "lib/AdminLTE/img/prod-5.jpg",
       "AssetKind": "All",
@@ -1989,10 +1989,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\AdminLTE\\img\\prod-5.jpg"
     },
     {
-      "Identity": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\img\\user1-128x128.jpg",
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\img\\user1-128x128.jpg",
       "SourceId": "BitacoraAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\",
       "BasePath": "_content/BitacoraAPP",
       "RelativePath": "lib/AdminLTE/img/user1-128x128.jpg",
       "AssetKind": "All",
@@ -2006,10 +2006,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\AdminLTE\\img\\user1-128x128.jpg"
     },
     {
-      "Identity": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\img\\user2-160x160.jpg",
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\img\\user2-160x160.jpg",
       "SourceId": "BitacoraAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\",
       "BasePath": "_content/BitacoraAPP",
       "RelativePath": "lib/AdminLTE/img/user2-160x160.jpg",
       "AssetKind": "All",
@@ -2023,10 +2023,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\AdminLTE\\img\\user2-160x160.jpg"
     },
     {
-      "Identity": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\img\\user3-128x128.jpg",
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\img\\user3-128x128.jpg",
       "SourceId": "BitacoraAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\",
       "BasePath": "_content/BitacoraAPP",
       "RelativePath": "lib/AdminLTE/img/user3-128x128.jpg",
       "AssetKind": "All",
@@ -2040,10 +2040,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\AdminLTE\\img\\user3-128x128.jpg"
     },
     {
-      "Identity": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\img\\user4-128x128.jpg",
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\img\\user4-128x128.jpg",
       "SourceId": "BitacoraAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\",
       "BasePath": "_content/BitacoraAPP",
       "RelativePath": "lib/AdminLTE/img/user4-128x128.jpg",
       "AssetKind": "All",
@@ -2057,10 +2057,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\AdminLTE\\img\\user4-128x128.jpg"
     },
     {
-      "Identity": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\img\\user5-128x128.jpg",
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\img\\user5-128x128.jpg",
       "SourceId": "BitacoraAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\",
       "BasePath": "_content/BitacoraAPP",
       "RelativePath": "lib/AdminLTE/img/user5-128x128.jpg",
       "AssetKind": "All",
@@ -2074,10 +2074,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\AdminLTE\\img\\user5-128x128.jpg"
     },
     {
-      "Identity": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\img\\user6-128x128.jpg",
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\img\\user6-128x128.jpg",
       "SourceId": "BitacoraAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\",
       "BasePath": "_content/BitacoraAPP",
       "RelativePath": "lib/AdminLTE/img/user6-128x128.jpg",
       "AssetKind": "All",
@@ -2091,10 +2091,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\AdminLTE\\img\\user6-128x128.jpg"
     },
     {
-      "Identity": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\img\\user7-128x128.jpg",
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\img\\user7-128x128.jpg",
       "SourceId": "BitacoraAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\",
       "BasePath": "_content/BitacoraAPP",
       "RelativePath": "lib/AdminLTE/img/user7-128x128.jpg",
       "AssetKind": "All",
@@ -2108,10 +2108,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\AdminLTE\\img\\user7-128x128.jpg"
     },
     {
-      "Identity": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\img\\user8-128x128.jpg",
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\img\\user8-128x128.jpg",
       "SourceId": "BitacoraAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\",
       "BasePath": "_content/BitacoraAPP",
       "RelativePath": "lib/AdminLTE/img/user8-128x128.jpg",
       "AssetKind": "All",
@@ -2125,10 +2125,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\AdminLTE\\img\\user8-128x128.jpg"
     },
     {
-      "Identity": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\js\\.eslintrc.json",
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\js\\.eslintrc.json",
       "SourceId": "BitacoraAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\",
       "BasePath": "_content/BitacoraAPP",
       "RelativePath": "lib/AdminLTE/js/.eslintrc.json",
       "AssetKind": "All",
@@ -2142,10 +2142,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\AdminLTE\\js\\.eslintrc.json"
     },
     {
-      "Identity": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\js\\adminlte.js",
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\js\\adminlte.js",
       "SourceId": "BitacoraAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\",
       "BasePath": "_content/BitacoraAPP",
       "RelativePath": "lib/AdminLTE/js/adminlte.js",
       "AssetKind": "All",
@@ -2159,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\AdminLTE\\js\\adminlte.js"
     },
     {
-      "Identity": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\js\\adminlte.js.map",
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\js\\adminlte.js.map",
       "SourceId": "BitacoraAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\",
       "BasePath": "_content/BitacoraAPP",
       "RelativePath": "lib/AdminLTE/js/adminlte.js.map",
       "AssetKind": "All",
@@ -2176,10 +2176,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\AdminLTE\\js\\adminlte.js.map"
     },
     {
-      "Identity": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\js\\adminlte.min.js",
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\js\\adminlte.min.js",
       "SourceId": "BitacoraAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\",
       "BasePath": "_content/BitacoraAPP",
       "RelativePath": "lib/AdminLTE/js/adminlte.min.js",
       "AssetKind": "All",
@@ -2193,10 +2193,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\AdminLTE\\js\\adminlte.min.js"
     },
     {
-      "Identity": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\js\\adminlte.min.js.map",
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\js\\adminlte.min.js.map",
       "SourceId": "BitacoraAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\",
       "BasePath": "_content/BitacoraAPP",
       "RelativePath": "lib/AdminLTE/js/adminlte.min.js.map",
       "AssetKind": "All",
@@ -2210,10 +2210,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\AdminLTE\\js\\adminlte.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\js\\demo.js",
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\js\\demo.js",
       "SourceId": "BitacoraAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\",
       "BasePath": "_content/BitacoraAPP",
       "RelativePath": "lib/AdminLTE/js/demo.js",
       "AssetKind": "All",
@@ -2227,10 +2227,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\AdminLTE\\js\\demo.js"
     },
     {
-      "Identity": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\js\\pages\\dashboard.js",
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\js\\pages\\dashboard.js",
       "SourceId": "BitacoraAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\",
       "BasePath": "_content/BitacoraAPP",
       "RelativePath": "lib/AdminLTE/js/pages/dashboard.js",
       "AssetKind": "All",
@@ -2244,10 +2244,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\AdminLTE\\js\\pages\\dashboard.js"
     },
     {
-      "Identity": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\js\\pages\\dashboard2.js",
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\js\\pages\\dashboard2.js",
       "SourceId": "BitacoraAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\",
       "BasePath": "_content/BitacoraAPP",
       "RelativePath": "lib/AdminLTE/js/pages/dashboard2.js",
       "AssetKind": "All",
@@ -2261,10 +2261,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\AdminLTE\\js\\pages\\dashboard2.js"
     },
     {
-      "Identity": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\js\\pages\\dashboard3.js",
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\lib\\AdminLTE\\js\\pages\\dashboard3.js",
       "SourceId": "BitacoraAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\",
       "BasePath": "_content/BitacoraAPP",
       "RelativePath": "lib/AdminLTE/js/pages/dashboard3.js",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\AdminLTE\\js\\pages\\dashboard3.js"
     },
     {
-      "Identity": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js",
       "SourceId": "BitacoraAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\",
       "BasePath": "_content/BitacoraAPP",
       "RelativePath": "lib/bootstrap/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -2295,10 +2295,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js.map",
       "SourceId": "BitacoraAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\",
       "BasePath": "_content/BitacoraAPP",
       "RelativePath": "lib/bootstrap/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -2312,10 +2312,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js",
       "SourceId": "BitacoraAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\",
       "BasePath": "_content/BitacoraAPP",
       "RelativePath": "lib/bootstrap/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -2329,10 +2329,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "BitacoraAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\",
       "BasePath": "_content/BitacoraAPP",
       "RelativePath": "lib/bootstrap/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -2346,10 +2346,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\lib\\bootstrap\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\lib\\bootstrap\\js\\bootstrap.js",
       "SourceId": "BitacoraAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\",
       "BasePath": "_content/BitacoraAPP",
       "RelativePath": "lib/bootstrap/js/bootstrap.js",
       "AssetKind": "All",
@@ -2363,10 +2363,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\lib\\bootstrap\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\lib\\bootstrap\\js\\bootstrap.js.map",
       "SourceId": "BitacoraAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\",
       "BasePath": "_content/BitacoraAPP",
       "RelativePath": "lib/bootstrap/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -2380,10 +2380,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js",
       "SourceId": "BitacoraAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\",
       "BasePath": "_content/BitacoraAPP",
       "RelativePath": "lib/bootstrap/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -2397,10 +2397,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js.map",
       "SourceId": "BitacoraAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\",
       "BasePath": "_content/BitacoraAPP",
       "RelativePath": "lib/bootstrap/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -2414,10 +2414,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\lib\\datatables\\jquery.dataTables.js",
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\lib\\datatables\\jquery.dataTables.js",
       "SourceId": "BitacoraAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\",
       "BasePath": "_content/BitacoraAPP",
       "RelativePath": "lib/datatables/jquery.dataTables.js",
       "AssetKind": "All",
@@ -2431,10 +2431,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\datatables\\jquery.dataTables.js"
     },
     {
-      "Identity": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\lib\\datatables\\jquery.dataTables.min.js",
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\lib\\datatables\\jquery.dataTables.min.js",
       "SourceId": "BitacoraAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\",
       "BasePath": "_content/BitacoraAPP",
       "RelativePath": "lib/datatables/jquery.dataTables.min.js",
       "AssetKind": "All",
@@ -2448,10 +2448,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\datatables\\jquery.dataTables.min.js"
     },
     {
-      "Identity": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\lib\\jquery\\jquery.js",
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\lib\\jquery\\jquery.js",
       "SourceId": "BitacoraAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\",
       "BasePath": "_content/BitacoraAPP",
       "RelativePath": "lib/jquery/jquery.js",
       "AssetKind": "All",
@@ -2465,10 +2465,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\lib\\jquery\\jquery.min.js",
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\lib\\jquery\\jquery.min.js",
       "SourceId": "BitacoraAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\",
       "BasePath": "_content/BitacoraAPP",
       "RelativePath": "lib/jquery/jquery.min.js",
       "AssetKind": "All",
@@ -2482,10 +2482,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\lib\\jquery\\jquery.min.map",
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\lib\\jquery\\jquery.min.map",
       "SourceId": "BitacoraAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\",
       "BasePath": "_content/BitacoraAPP",
       "RelativePath": "lib/jquery/jquery.min.map",
       "AssetKind": "All",
@@ -2499,10 +2499,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\lib\\jquery\\jquery.slim.js",
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\lib\\jquery\\jquery.slim.js",
       "SourceId": "BitacoraAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\",
       "BasePath": "_content/BitacoraAPP",
       "RelativePath": "lib/jquery/jquery.slim.js",
       "AssetKind": "All",
@@ -2516,10 +2516,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\jquery.slim.js"
     },
     {
-      "Identity": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\lib\\jquery\\jquery.slim.min.js",
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\lib\\jquery\\jquery.slim.min.js",
       "SourceId": "BitacoraAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\",
       "BasePath": "_content/BitacoraAPP",
       "RelativePath": "lib/jquery/jquery.slim.min.js",
       "AssetKind": "All",
@@ -2533,10 +2533,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\jquery.slim.min.js"
     },
     {
-      "Identity": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\lib\\jquery\\jquery.slim.min.map",
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\lib\\jquery\\jquery.slim.min.map",
       "SourceId": "BitacoraAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\",
       "BasePath": "_content/BitacoraAPP",
       "RelativePath": "lib/jquery/jquery.slim.min.map",
       "AssetKind": "All",
@@ -2550,10 +2550,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\jquery.slim.min.map"
     },
     {
-      "Identity": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\lib\\jquery-ui\\images\\ui-icons_444444_256x240.png",
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\lib\\jquery-ui\\images\\ui-icons_444444_256x240.png",
       "SourceId": "BitacoraAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\",
       "BasePath": "_content/BitacoraAPP",
       "RelativePath": "lib/jquery-ui/images/ui-icons_444444_256x240.png",
       "AssetKind": "All",
@@ -2567,10 +2567,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-ui\\images\\ui-icons_444444_256x240.png"
     },
     {
-      "Identity": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\lib\\jquery-ui\\images\\ui-icons_555555_256x240.png",
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\lib\\jquery-ui\\images\\ui-icons_555555_256x240.png",
       "SourceId": "BitacoraAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\",
       "BasePath": "_content/BitacoraAPP",
       "RelativePath": "lib/jquery-ui/images/ui-icons_555555_256x240.png",
       "AssetKind": "All",
@@ -2584,10 +2584,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-ui\\images\\ui-icons_555555_256x240.png"
     },
     {
-      "Identity": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\lib\\jquery-ui\\images\\ui-icons_777620_256x240.png",
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\lib\\jquery-ui\\images\\ui-icons_777620_256x240.png",
       "SourceId": "BitacoraAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\",
       "BasePath": "_content/BitacoraAPP",
       "RelativePath": "lib/jquery-ui/images/ui-icons_777620_256x240.png",
       "AssetKind": "All",
@@ -2601,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-ui\\images\\ui-icons_777620_256x240.png"
     },
     {
-      "Identity": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\lib\\jquery-ui\\images\\ui-icons_777777_256x240.png",
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\lib\\jquery-ui\\images\\ui-icons_777777_256x240.png",
       "SourceId": "BitacoraAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\",
       "BasePath": "_content/BitacoraAPP",
       "RelativePath": "lib/jquery-ui/images/ui-icons_777777_256x240.png",
       "AssetKind": "All",
@@ -2618,10 +2618,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-ui\\images\\ui-icons_777777_256x240.png"
     },
     {
-      "Identity": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\lib\\jquery-ui\\images\\ui-icons_cc0000_256x240.png",
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\lib\\jquery-ui\\images\\ui-icons_cc0000_256x240.png",
       "SourceId": "BitacoraAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\",
       "BasePath": "_content/BitacoraAPP",
       "RelativePath": "lib/jquery-ui/images/ui-icons_cc0000_256x240.png",
       "AssetKind": "All",
@@ -2635,10 +2635,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-ui\\images\\ui-icons_cc0000_256x240.png"
     },
     {
-      "Identity": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\lib\\jquery-ui\\images\\ui-icons_ffffff_256x240.png",
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\lib\\jquery-ui\\images\\ui-icons_ffffff_256x240.png",
       "SourceId": "BitacoraAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\",
       "BasePath": "_content/BitacoraAPP",
       "RelativePath": "lib/jquery-ui/images/ui-icons_ffffff_256x240.png",
       "AssetKind": "All",
@@ -2652,10 +2652,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-ui\\images\\ui-icons_ffffff_256x240.png"
     },
     {
-      "Identity": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\lib\\jquery-ui\\jquery-ui.css",
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\lib\\jquery-ui\\jquery-ui.css",
       "SourceId": "BitacoraAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\",
       "BasePath": "_content/BitacoraAPP",
       "RelativePath": "lib/jquery-ui/jquery-ui.css",
       "AssetKind": "All",
@@ -2669,10 +2669,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-ui\\jquery-ui.css"
     },
     {
-      "Identity": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\lib\\jquery-ui\\jquery-ui.js",
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\lib\\jquery-ui\\jquery-ui.js",
       "SourceId": "BitacoraAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\",
       "BasePath": "_content/BitacoraAPP",
       "RelativePath": "lib/jquery-ui/jquery-ui.js",
       "AssetKind": "All",
@@ -2686,10 +2686,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-ui\\jquery-ui.js"
     },
     {
-      "Identity": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\lib\\jquery-ui\\jquery-ui.min.css",
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\lib\\jquery-ui\\jquery-ui.min.css",
       "SourceId": "BitacoraAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\",
       "BasePath": "_content/BitacoraAPP",
       "RelativePath": "lib/jquery-ui/jquery-ui.min.css",
       "AssetKind": "All",
@@ -2703,10 +2703,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-ui\\jquery-ui.min.css"
     },
     {
-      "Identity": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\lib\\jquery-ui\\jquery-ui.min.js",
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\lib\\jquery-ui\\jquery-ui.min.js",
       "SourceId": "BitacoraAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\",
       "BasePath": "_content/BitacoraAPP",
       "RelativePath": "lib/jquery-ui/jquery-ui.min.js",
       "AssetKind": "All",
@@ -2720,10 +2720,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-ui\\jquery-ui.min.js"
     },
     {
-      "Identity": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\lib\\jquery-ui\\jquery-ui.structure.css",
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\lib\\jquery-ui\\jquery-ui.structure.css",
       "SourceId": "BitacoraAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\",
       "BasePath": "_content/BitacoraAPP",
       "RelativePath": "lib/jquery-ui/jquery-ui.structure.css",
       "AssetKind": "All",
@@ -2737,10 +2737,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-ui\\jquery-ui.structure.css"
     },
     {
-      "Identity": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\lib\\jquery-ui\\jquery-ui.structure.min.css",
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\lib\\jquery-ui\\jquery-ui.structure.min.css",
       "SourceId": "BitacoraAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\",
       "BasePath": "_content/BitacoraAPP",
       "RelativePath": "lib/jquery-ui/jquery-ui.structure.min.css",
       "AssetKind": "All",
@@ -2754,10 +2754,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-ui\\jquery-ui.structure.min.css"
     },
     {
-      "Identity": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\lib\\jquery-ui\\jquery-ui.theme.css",
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\lib\\jquery-ui\\jquery-ui.theme.css",
       "SourceId": "BitacoraAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\",
       "BasePath": "_content/BitacoraAPP",
       "RelativePath": "lib/jquery-ui/jquery-ui.theme.css",
       "AssetKind": "All",
@@ -2771,10 +2771,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-ui\\jquery-ui.theme.css"
     },
     {
-      "Identity": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\lib\\jquery-ui\\jquery-ui.theme.min.css",
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\lib\\jquery-ui\\jquery-ui.theme.min.css",
       "SourceId": "BitacoraAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\",
       "BasePath": "_content/BitacoraAPP",
       "RelativePath": "lib/jquery-ui/jquery-ui.theme.min.css",
       "AssetKind": "All",
@@ -2788,10 +2788,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-ui\\jquery-ui.theme.min.css"
     },
     {
-      "Identity": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\lib\\jquery-ui\\LICENSE.txt",
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\lib\\jquery-ui\\LICENSE.txt",
       "SourceId": "BitacoraAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\",
       "BasePath": "_content/BitacoraAPP",
       "RelativePath": "lib/jquery-ui/LICENSE.txt",
       "AssetKind": "All",
@@ -2805,10 +2805,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-ui\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\lib\\sweetalert2\\sweetalert2.all.js",
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\lib\\sweetalert2\\sweetalert2.all.js",
       "SourceId": "BitacoraAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\",
       "BasePath": "_content/BitacoraAPP",
       "RelativePath": "lib/sweetalert2/sweetalert2.all.js",
       "AssetKind": "All",
@@ -2822,10 +2822,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\sweetalert2\\sweetalert2.all.js"
     },
     {
-      "Identity": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\lib\\sweetalert2\\sweetalert2.all.min.js",
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\lib\\sweetalert2\\sweetalert2.all.min.js",
       "SourceId": "BitacoraAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\",
       "BasePath": "_content/BitacoraAPP",
       "RelativePath": "lib/sweetalert2/sweetalert2.all.min.js",
       "AssetKind": "All",
@@ -2839,10 +2839,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\sweetalert2\\sweetalert2.all.min.js"
     },
     {
-      "Identity": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\lib\\sweetalert2\\sweetalert2.css",
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\lib\\sweetalert2\\sweetalert2.css",
       "SourceId": "BitacoraAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\",
       "BasePath": "_content/BitacoraAPP",
       "RelativePath": "lib/sweetalert2/sweetalert2.css",
       "AssetKind": "All",
@@ -2856,10 +2856,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\sweetalert2\\sweetalert2.css"
     },
     {
-      "Identity": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\lib\\sweetalert2\\sweetalert2.js",
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\lib\\sweetalert2\\sweetalert2.js",
       "SourceId": "BitacoraAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\",
       "BasePath": "_content/BitacoraAPP",
       "RelativePath": "lib/sweetalert2/sweetalert2.js",
       "AssetKind": "All",
@@ -2873,10 +2873,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\sweetalert2\\sweetalert2.js"
     },
     {
-      "Identity": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\lib\\sweetalert2\\sweetalert2.min.css",
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\lib\\sweetalert2\\sweetalert2.min.css",
       "SourceId": "BitacoraAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\",
       "BasePath": "_content/BitacoraAPP",
       "RelativePath": "lib/sweetalert2/sweetalert2.min.css",
       "AssetKind": "All",
@@ -2890,10 +2890,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\sweetalert2\\sweetalert2.min.css"
     },
     {
-      "Identity": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\lib\\sweetalert2\\sweetalert2.min.js",
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\lib\\sweetalert2\\sweetalert2.min.js",
       "SourceId": "BitacoraAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\analista.sistemas\\source\\repos\\BitacoraAPP\\BitacoraAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\",
       "BasePath": "_content/BitacoraAPP",
       "RelativePath": "lib/sweetalert2/sweetalert2.min.js",
       "AssetKind": "All",
