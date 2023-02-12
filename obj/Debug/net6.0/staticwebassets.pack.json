@@ -1,0 +1,457 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BitacoraAPP.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BitacoraAPP.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\wwwroot\\lib\\AdminLTE\\css\\adminlte.css",
+      "PackagePath": "staticwebassets\\lib\\AdminLTE\\css\\adminlte.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\wwwroot\\lib\\AdminLTE\\css\\adminlte.css.map",
+      "PackagePath": "staticwebassets\\lib\\AdminLTE\\css\\adminlte.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\wwwroot\\lib\\AdminLTE\\css\\adminlte.min.css",
+      "PackagePath": "staticwebassets\\lib\\AdminLTE\\css\\adminlte.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\wwwroot\\lib\\AdminLTE\\css\\adminlte.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\AdminLTE\\css\\adminlte.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\wwwroot\\lib\\AdminLTE\\css\\alt\\adminlte.components.css",
+      "PackagePath": "staticwebassets\\lib\\AdminLTE\\css\\alt\\adminlte.components.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\wwwroot\\lib\\AdminLTE\\css\\alt\\adminlte.components.css.map",
+      "PackagePath": "staticwebassets\\lib\\AdminLTE\\css\\alt\\adminlte.components.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\wwwroot\\lib\\AdminLTE\\css\\alt\\adminlte.components.min.css",
+      "PackagePath": "staticwebassets\\lib\\AdminLTE\\css\\alt\\adminlte.components.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\wwwroot\\lib\\AdminLTE\\css\\alt\\adminlte.components.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\AdminLTE\\css\\alt\\adminlte.components.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\wwwroot\\lib\\AdminLTE\\css\\alt\\adminlte.core.css",
+      "PackagePath": "staticwebassets\\lib\\AdminLTE\\css\\alt\\adminlte.core.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\wwwroot\\lib\\AdminLTE\\css\\alt\\adminlte.core.css.map",
+      "PackagePath": "staticwebassets\\lib\\AdminLTE\\css\\alt\\adminlte.core.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\wwwroot\\lib\\AdminLTE\\css\\alt\\adminlte.core.min.css",
+      "PackagePath": "staticwebassets\\lib\\AdminLTE\\css\\alt\\adminlte.core.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\wwwroot\\lib\\AdminLTE\\css\\alt\\adminlte.core.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\AdminLTE\\css\\alt\\adminlte.core.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\wwwroot\\lib\\AdminLTE\\css\\alt\\adminlte.extra-components.css",
+      "PackagePath": "staticwebassets\\lib\\AdminLTE\\css\\alt\\adminlte.extra-components.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\wwwroot\\lib\\AdminLTE\\css\\alt\\adminlte.extra-components.css.map",
+      "PackagePath": "staticwebassets\\lib\\AdminLTE\\css\\alt\\adminlte.extra-components.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\wwwroot\\lib\\AdminLTE\\css\\alt\\adminlte.extra-components.min.css",
+      "PackagePath": "staticwebassets\\lib\\AdminLTE\\css\\alt\\adminlte.extra-components.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\wwwroot\\lib\\AdminLTE\\css\\alt\\adminlte.extra-components.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\AdminLTE\\css\\alt\\adminlte.extra-components.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\wwwroot\\lib\\AdminLTE\\css\\alt\\adminlte.light.css",
+      "PackagePath": "staticwebassets\\lib\\AdminLTE\\css\\alt\\adminlte.light.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\wwwroot\\lib\\AdminLTE\\css\\alt\\adminlte.light.css.map",
+      "PackagePath": "staticwebassets\\lib\\AdminLTE\\css\\alt\\adminlte.light.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\wwwroot\\lib\\AdminLTE\\css\\alt\\adminlte.light.min.css",
+      "PackagePath": "staticwebassets\\lib\\AdminLTE\\css\\alt\\adminlte.light.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\wwwroot\\lib\\AdminLTE\\css\\alt\\adminlte.light.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\AdminLTE\\css\\alt\\adminlte.light.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\wwwroot\\lib\\AdminLTE\\css\\alt\\adminlte.pages.css",
+      "PackagePath": "staticwebassets\\lib\\AdminLTE\\css\\alt\\adminlte.pages.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\wwwroot\\lib\\AdminLTE\\css\\alt\\adminlte.pages.css.map",
+      "PackagePath": "staticwebassets\\lib\\AdminLTE\\css\\alt\\adminlte.pages.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\wwwroot\\lib\\AdminLTE\\css\\alt\\adminlte.pages.min.css",
+      "PackagePath": "staticwebassets\\lib\\AdminLTE\\css\\alt\\adminlte.pages.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\wwwroot\\lib\\AdminLTE\\css\\alt\\adminlte.pages.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\AdminLTE\\css\\alt\\adminlte.pages.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\wwwroot\\lib\\AdminLTE\\css\\alt\\adminlte.plugins.css",
+      "PackagePath": "staticwebassets\\lib\\AdminLTE\\css\\alt\\adminlte.plugins.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\wwwroot\\lib\\AdminLTE\\css\\alt\\adminlte.plugins.css.map",
+      "PackagePath": "staticwebassets\\lib\\AdminLTE\\css\\alt\\adminlte.plugins.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\wwwroot\\lib\\AdminLTE\\css\\alt\\adminlte.plugins.min.css",
+      "PackagePath": "staticwebassets\\lib\\AdminLTE\\css\\alt\\adminlte.plugins.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\wwwroot\\lib\\AdminLTE\\css\\alt\\adminlte.plugins.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\AdminLTE\\css\\alt\\adminlte.plugins.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\wwwroot\\lib\\AdminLTE\\img\\AdminLTELogo.png",
+      "PackagePath": "staticwebassets\\lib\\AdminLTE\\img\\AdminLTELogo.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\wwwroot\\lib\\AdminLTE\\img\\avatar.png",
+      "PackagePath": "staticwebassets\\lib\\AdminLTE\\img\\avatar.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\wwwroot\\lib\\AdminLTE\\img\\avatar2.png",
+      "PackagePath": "staticwebassets\\lib\\AdminLTE\\img\\avatar2.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\wwwroot\\lib\\AdminLTE\\img\\avatar3.png",
+      "PackagePath": "staticwebassets\\lib\\AdminLTE\\img\\avatar3.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\wwwroot\\lib\\AdminLTE\\img\\avatar4.png",
+      "PackagePath": "staticwebassets\\lib\\AdminLTE\\img\\avatar4.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\wwwroot\\lib\\AdminLTE\\img\\avatar5.png",
+      "PackagePath": "staticwebassets\\lib\\AdminLTE\\img\\avatar5.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\wwwroot\\lib\\AdminLTE\\img\\credit\\american-express.png",
+      "PackagePath": "staticwebassets\\lib\\AdminLTE\\img\\credit\\american-express.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\wwwroot\\lib\\AdminLTE\\img\\credit\\cirrus.png",
+      "PackagePath": "staticwebassets\\lib\\AdminLTE\\img\\credit\\cirrus.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\wwwroot\\lib\\AdminLTE\\img\\credit\\mastercard.png",
+      "PackagePath": "staticwebassets\\lib\\AdminLTE\\img\\credit\\mastercard.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\wwwroot\\lib\\AdminLTE\\img\\credit\\paypal.png",
+      "PackagePath": "staticwebassets\\lib\\AdminLTE\\img\\credit\\paypal.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\wwwroot\\lib\\AdminLTE\\img\\credit\\paypal2.png",
+      "PackagePath": "staticwebassets\\lib\\AdminLTE\\img\\credit\\paypal2.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\wwwroot\\lib\\AdminLTE\\img\\credit\\visa.png",
+      "PackagePath": "staticwebassets\\lib\\AdminLTE\\img\\credit\\visa.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\wwwroot\\lib\\AdminLTE\\img\\default-150x150.png",
+      "PackagePath": "staticwebassets\\lib\\AdminLTE\\img\\default-150x150.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\wwwroot\\lib\\AdminLTE\\img\\icons.png",
+      "PackagePath": "staticwebassets\\lib\\AdminLTE\\img\\icons.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\wwwroot\\lib\\AdminLTE\\img\\photo1.png",
+      "PackagePath": "staticwebassets\\lib\\AdminLTE\\img\\photo1.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\wwwroot\\lib\\AdminLTE\\img\\photo2.png",
+      "PackagePath": "staticwebassets\\lib\\AdminLTE\\img\\photo2.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\wwwroot\\lib\\AdminLTE\\img\\photo3.jpg",
+      "PackagePath": "staticwebassets\\lib\\AdminLTE\\img\\photo3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\wwwroot\\lib\\AdminLTE\\img\\photo4.jpg",
+      "PackagePath": "staticwebassets\\lib\\AdminLTE\\img\\photo4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\wwwroot\\lib\\AdminLTE\\img\\prod-1.jpg",
+      "PackagePath": "staticwebassets\\lib\\AdminLTE\\img\\prod-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\wwwroot\\lib\\AdminLTE\\img\\prod-2.jpg",
+      "PackagePath": "staticwebassets\\lib\\AdminLTE\\img\\prod-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\wwwroot\\lib\\AdminLTE\\img\\prod-3.jpg",
+      "PackagePath": "staticwebassets\\lib\\AdminLTE\\img\\prod-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\wwwroot\\lib\\AdminLTE\\img\\prod-4.jpg",
+      "PackagePath": "staticwebassets\\lib\\AdminLTE\\img\\prod-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\wwwroot\\lib\\AdminLTE\\img\\prod-5.jpg",
+      "PackagePath": "staticwebassets\\lib\\AdminLTE\\img\\prod-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\wwwroot\\lib\\AdminLTE\\img\\user1-128x128.jpg",
+      "PackagePath": "staticwebassets\\lib\\AdminLTE\\img\\user1-128x128.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\wwwroot\\lib\\AdminLTE\\img\\user2-160x160.jpg",
+      "PackagePath": "staticwebassets\\lib\\AdminLTE\\img\\user2-160x160.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\wwwroot\\lib\\AdminLTE\\img\\user3-128x128.jpg",
+      "PackagePath": "staticwebassets\\lib\\AdminLTE\\img\\user3-128x128.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\wwwroot\\lib\\AdminLTE\\img\\user4-128x128.jpg",
+      "PackagePath": "staticwebassets\\lib\\AdminLTE\\img\\user4-128x128.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\wwwroot\\lib\\AdminLTE\\img\\user5-128x128.jpg",
+      "PackagePath": "staticwebassets\\lib\\AdminLTE\\img\\user5-128x128.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\wwwroot\\lib\\AdminLTE\\img\\user6-128x128.jpg",
+      "PackagePath": "staticwebassets\\lib\\AdminLTE\\img\\user6-128x128.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\wwwroot\\lib\\AdminLTE\\img\\user7-128x128.jpg",
+      "PackagePath": "staticwebassets\\lib\\AdminLTE\\img\\user7-128x128.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\wwwroot\\lib\\AdminLTE\\img\\user8-128x128.jpg",
+      "PackagePath": "staticwebassets\\lib\\AdminLTE\\img\\user8-128x128.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\wwwroot\\lib\\AdminLTE\\js\\.eslintrc.json",
+      "PackagePath": "staticwebassets\\lib\\AdminLTE\\js\\.eslintrc.json"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\wwwroot\\lib\\AdminLTE\\js\\adminlte.js",
+      "PackagePath": "staticwebassets\\lib\\AdminLTE\\js\\adminlte.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\wwwroot\\lib\\AdminLTE\\js\\adminlte.js.map",
+      "PackagePath": "staticwebassets\\lib\\AdminLTE\\js\\adminlte.js.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\wwwroot\\lib\\AdminLTE\\js\\adminlte.min.js",
+      "PackagePath": "staticwebassets\\lib\\AdminLTE\\js\\adminlte.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\wwwroot\\lib\\AdminLTE\\js\\adminlte.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\AdminLTE\\js\\adminlte.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\wwwroot\\lib\\AdminLTE\\js\\demo.js",
+      "PackagePath": "staticwebassets\\lib\\AdminLTE\\js\\demo.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\wwwroot\\lib\\AdminLTE\\js\\pages\\dashboard.js",
+      "PackagePath": "staticwebassets\\lib\\AdminLTE\\js\\pages\\dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\wwwroot\\lib\\AdminLTE\\js\\pages\\dashboard2.js",
+      "PackagePath": "staticwebassets\\lib\\AdminLTE\\js\\pages\\dashboard2.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\wwwroot\\lib\\AdminLTE\\js\\pages\\dashboard3.js",
+      "PackagePath": "staticwebassets\\lib\\AdminLTE\\js\\pages\\dashboard3.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\wwwroot\\lib\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\wwwroot\\lib\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\wwwroot\\lib\\datatables\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\lib\\datatables\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\wwwroot\\lib\\datatables\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatables\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\wwwroot\\lib\\jquery-ui\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-ui\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\wwwroot\\lib\\jquery-ui\\images\\ui-icons_444444_256x240.png",
+      "PackagePath": "staticwebassets\\lib\\jquery-ui\\images\\ui-icons_444444_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\wwwroot\\lib\\jquery-ui\\images\\ui-icons_555555_256x240.png",
+      "PackagePath": "staticwebassets\\lib\\jquery-ui\\images\\ui-icons_555555_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\wwwroot\\lib\\jquery-ui\\images\\ui-icons_777620_256x240.png",
+      "PackagePath": "staticwebassets\\lib\\jquery-ui\\images\\ui-icons_777620_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\wwwroot\\lib\\jquery-ui\\images\\ui-icons_777777_256x240.png",
+      "PackagePath": "staticwebassets\\lib\\jquery-ui\\images\\ui-icons_777777_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\wwwroot\\lib\\jquery-ui\\images\\ui-icons_cc0000_256x240.png",
+      "PackagePath": "staticwebassets\\lib\\jquery-ui\\images\\ui-icons_cc0000_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\wwwroot\\lib\\jquery-ui\\images\\ui-icons_ffffff_256x240.png",
+      "PackagePath": "staticwebassets\\lib\\jquery-ui\\images\\ui-icons_ffffff_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\wwwroot\\lib\\jquery-ui\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\lib\\jquery-ui\\jquery-ui.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\wwwroot\\lib\\jquery-ui\\jquery-ui.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-ui\\jquery-ui.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\wwwroot\\lib\\jquery-ui\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\lib\\jquery-ui\\jquery-ui.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\wwwroot\\lib\\jquery-ui\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-ui\\jquery-ui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\wwwroot\\lib\\jquery-ui\\jquery-ui.structure.css",
+      "PackagePath": "staticwebassets\\lib\\jquery-ui\\jquery-ui.structure.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\wwwroot\\lib\\jquery-ui\\jquery-ui.structure.min.css",
+      "PackagePath": "staticwebassets\\lib\\jquery-ui\\jquery-ui.structure.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\wwwroot\\lib\\jquery-ui\\jquery-ui.theme.css",
+      "PackagePath": "staticwebassets\\lib\\jquery-ui\\jquery-ui.theme.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\wwwroot\\lib\\jquery-ui\\jquery-ui.theme.min.css",
+      "PackagePath": "staticwebassets\\lib\\jquery-ui\\jquery-ui.theme.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\wwwroot\\lib\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\wwwroot\\lib\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\wwwroot\\lib\\jquery\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\wwwroot\\lib\\jquery\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery.slim.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\wwwroot\\lib\\jquery\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery.slim.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\wwwroot\\lib\\jquery\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery.slim.min.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\wwwroot\\lib\\sweetalert2\\sweetalert2.all.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\sweetalert2.all.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\wwwroot\\lib\\sweetalert2\\sweetalert2.all.min.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\sweetalert2.all.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\wwwroot\\lib\\sweetalert2\\sweetalert2.css",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\sweetalert2.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\wwwroot\\lib\\sweetalert2\\sweetalert2.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\sweetalert2.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\wwwroot\\lib\\sweetalert2\\sweetalert2.min.css",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\sweetalert2.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\wwwroot\\lib\\sweetalert2\\sweetalert2.min.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\sweetalert2.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.BitacoraAPP.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.BitacoraAPP.props",
+      "PackagePath": "build\\BitacoraAPP.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.BitacoraAPP.props",
+      "PackagePath": "buildMultiTargeting\\BitacoraAPP.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.BitacoraAPP.props",
+      "PackagePath": "buildTransitive\\BitacoraAPP.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

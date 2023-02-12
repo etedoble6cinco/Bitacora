@@ -269,6 +269,7 @@ namespace BitacoraAPP.Data.Migrations
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
                 });
+                
 #pragma warning restore 612, 618
         }
     }
