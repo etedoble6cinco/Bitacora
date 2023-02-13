@@ -30,7 +30,7 @@ namespace BitacoraAPP.Services
             client.EnableSsl = true;
             client.UseDefaultCredentials = false;
             client.Credentials = new NetworkCredential(from, emailConfiguration.Password);
-            message.Attachments.Add(new Attachment(Path.Combine(Directory.GetCurrentDirectory(), "wwwroot//Excel", emailConfiguration.FileNameEmailAttatch)));
+            message.Attachments.Add(new Attachment(Path.Combine(Directory.GetCurrentDirectory(), "wwwroot//Excel", FileName)));
             try
             {
                await client.SendMailAsync(message);
