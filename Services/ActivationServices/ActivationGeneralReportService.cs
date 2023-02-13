@@ -16,10 +16,10 @@ namespace BitacoraAPP.Services.ActivationServices
             this._emailService = emailService;
             this._excellReportService = excellReport;   
         }
+
         public Task<bool> ActivateGeneralReportService(List<ListarEmpleadosGeneralReport> ListaUsuarios)
         {
-            
-            return false;
+            throw new NotImplementedException();
         }
     }
 }
