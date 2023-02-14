@@ -167,8 +167,6 @@ C:\Users\analista.sistemas\Documents\GitHub\Bitacora\BitacoraAppDEV\BitacoraAPP\
 C:\Users\analista.sistemas\Documents\GitHub\Bitacora\BitacoraAppDEV\BitacoraAPP\obj\Debug\net6.0\BitacoraAPP.pdb
 C:\Users\analista.sistemas\Documents\GitHub\Bitacora\BitacoraAppDEV\BitacoraAPP\obj\Debug\net6.0\BitacoraAPP.genruntimeconfig.cache
 C:\Users\analista.sistemas\Documents\GitHub\Bitacora\BitacoraAppDEV\BitacoraAPP\obj\Debug\net6.0\ref\BitacoraAPP.dll
-C:\Users\analista.sistemas\Documents\GitHub\Bitacora\BitacoraAppDEV\BitacoraAPP\bin\Debug\net6.0\OfficeOpenXml.Core.ExcelPackage.dll
-C:\Users\analista.sistemas\Documents\GitHub\Bitacora\BitacoraAppDEV\BitacoraAPP\bin\Debug\net6.0\System.IO.Packaging.dll
 C:\Users\User\Documents\GitHub\Bitacora\obj\Debug\net6.0\BitacoraAPP.csproj.AssemblyReference.cache
 C:\Users\User\Documents\GitHub\Bitacora\obj\Debug\net6.0\BitacoraAPP.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\User\Documents\GitHub\Bitacora\obj\Debug\net6.0\BitacoraAPP.AssemblyInfoInputs.cache
@@ -273,3 +271,7 @@ C:\Users\User\Documents\GitHub\Bitacora\obj\Debug\net6.0\scopedcss\projectbundle
 C:\Users\User\Documents\GitHub\Bitacora\obj\Debug\net6.0\BitacoraAPP.csproj.CopyComplete
 C:\Users\User\Documents\GitHub\Bitacora\obj\Debug\net6.0\BitacoraAPP.genruntimeconfig.cache
 C:\Users\User\Documents\GitHub\Bitacora\obj\Debug\net6.0\ref\BitacoraAPP.dll
+C:\Users\analista.sistemas\Documents\GitHub\Bitacora\BitacoraAppDEV\BitacoraAPP\bin\Debug\net6.0\EPPlus.dll
+C:\Users\analista.sistemas\Documents\GitHub\Bitacora\BitacoraAppDEV\BitacoraAPP\bin\Debug\net6.0\EPPlus.Interfaces.dll
+C:\Users\analista.sistemas\Documents\GitHub\Bitacora\BitacoraAppDEV\BitacoraAPP\bin\Debug\net6.0\EPPlus.System.Drawing.dll
+C:\Users\analista.sistemas\Documents\GitHub\Bitacora\BitacoraAppDEV\BitacoraAPP\bin\Debug\net6.0\Microsoft.IO.RecyclableMemoryStream.dll

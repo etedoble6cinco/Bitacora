@@ -6,7 +6,7 @@ namespace BitacoraAPP.Services
 {
     public interface IUsuarioEmpleadoService
     {
-     
+
         Task<List<Usuario>> GetUsuariosEmpleados();
         Task<Usuario> GetUsuarioEmpleadoById(int UserId);
         Task<bool> InsertUsuarioEmpleado(Usuario usuario);
@@ -17,7 +17,7 @@ namespace BitacoraAPP.Services
         private readonly string ConnectionString;
         public UsuarioEmpleadoService(IConfiguration configuration)
         {
-            this.ConnectionString = configuration.GetConnectionString("DefaultConnection");
+            ConnectionString = configuration.GetConnectionString("DefaultConnection");
         }
 
         public async Task<Usuario> GetUsuarioEmpleadoById(int Id)
@@ -29,9 +29,10 @@ namespace BitacoraAPP.Services
                     return await connection.QueryFirstOrDefaultAsync<Usuario>("SELECT * FROM Usuarios WHERE Id=@Id",
                         new { Id });
 
-            }catch(SqlException e)
+            }
+            catch (SqlException e)
             {
-                Console.WriteLine(e.Message.ToString());   
+                Console.WriteLine(e.Message.ToString());
                 return new Usuario();
             }
 
@@ -54,18 +55,18 @@ namespace BitacoraAPP.Services
                 }
 
             }
-            catch(SqlException e)
+            catch (SqlException e)
             {
                 Console.WriteLine(e.Message.ToString());
-                return new List<Usuario>(); 
-            
+                return new List<Usuario>();
+
             }
-         
+
         }
 
         public async Task<bool> InsertUsuarioEmpleado(Usuario usuario)
         {
-            
+
             var query = "INSERT INTO Usuario " +
                 "(ClaveUsuario," +
                 "NombreUsuario," +
@@ -77,24 +78,25 @@ namespace BitacoraAPP.Services
             {
                 using (var connection = new SqlConnection(ConnectionString))
                 {
-                   await connection.ExecuteAsync(query, new
+                    await connection.ExecuteAsync(query, new
                     {
-                        ClaveUsuario = usuario.ClaveUsuario,
-                        NombreUsuario = usuario.NombreUsuario,
-                        TipoUsuario = usuario.TipoUsuario
+                        usuario.ClaveUsuario,
+                        usuario.NombreUsuario,
+                        usuario.TipoUsuario
                     });
 
                     return true;
                 }
-            }catch(SqlException e)
+            }
+            catch (SqlException e)
             {
-               
+
                 Console.WriteLine(e.Message.ToString());
                 return false;
             }
-            
+
         }
-        public async Task<bool>UpdateUsuarioEmpleado(Usuario usuario)
+        public async Task<bool> UpdateUsuarioEmpleado(Usuario usuario)
         {
             try
             {
@@ -106,20 +108,20 @@ namespace BitacoraAPP.Services
                 {
                     await connection.ExecuteAsync(query, new
                     {
-                        ClaveUsuario = usuario.ClaveUsuario,
-                        NombreUsuario = usuario.NombreUsuario,
-                        TipoUsuario = usuario.TipoUsuario
+                        usuario.ClaveUsuario,
+                        usuario.NombreUsuario,
+                        usuario.TipoUsuario
                     });
                     return true;
                 }
-                
+
             }
-            catch(SqlException e)
+            catch (SqlException e)
             {
                 Console.WriteLine(e.Message.ToString());
                 return false;
             }
-           
+
         }
     }
 }

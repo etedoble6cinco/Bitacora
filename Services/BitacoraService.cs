@@ -31,12 +31,40 @@ namespace BitacoraAPP.Services
                 {
                     var ListaUsuariosReport = await connection.QueryAsync<ListarEmpleadosGeneralReport>(procedure,
                         commandType: System.Data.CommandType.StoredProcedure);
+                    
+                    foreach(var user in ListaUsuariosReport)
+                    {
+                        if (user.CerrarRegistro.Equals(""))
+                        {
+                            if (user.HoraEntrada.ToString() == "")
+                            {
+                                user.CerrarRegistro = 2;
+                            }
+                            else
+                            {
+                                user.CerrarRegistro = 0;
+                            }
+                           
+                            
+                        }
+                        else
+                        {
+                            if(int.Parse(user.CerrarRegistro.ToString()) == 0)
+                            {
+                                user.CerrarRegistro = 0;
+                            }
+                            else
+                            {
+                                user.CerrarRegistro = 1;
+                            }
+                        }
+                    }
                     return ListaUsuariosReport.ToList();
                 }
             }catch (SqlException e)
             {
                 Console.WriteLine(e.Message.ToString());
-                return new List<ListarEmpleadosGeneralReport>();
+                return new List<ListarEmpleadosGeneralReport>(); //RETURN EMPTY LIST
             }
             
          
@@ -65,15 +93,25 @@ namespace BitacoraAPP.Services
 
         public async Task<List<ListaEmpleadosDashboard>> GetDashboardBitacoraService()
         {
-            var procedure = "getusuariosreport";
-            using (var connection = new SqlConnection(connectionString))
+            try
             {
-            var ListaUsuarios = await connection.QueryAsync<ListaEmpleadosDashboard>(procedure,
-                commandType: System.Data.CommandType.StoredProcedure);
+                var procedure = "getusuariosreport";
+                using (var connection = new SqlConnection(connectionString))
+                {
+                    var ListaUsuarios = await connection.QueryAsync<ListaEmpleadosDashboard>(procedure,
+                        commandType: System.Data.CommandType.StoredProcedure);
 
-                return ListaUsuarios.ToList();
+                    return ListaUsuarios.ToList();
+
+                }
+            }
+            catch(SqlException e)
+            {
+                Console.WriteLine(e.Message.ToString());
+                return new List<ListaEmpleadosDashboard>();
             
             }
+           
                
         }
     }

@@ -1,0 +1,83 @@
+﻿@using Microsoft.AspNetCore.Identity
+@inject SignInManager<IdentityUser> SignInManager
+@inject UserManager<IdentityUser> UserManager
+@model List<BitacoraAPP.Models.EmpleadoUserViewModel.ListaEmpleadosDashboard>
+@* 
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<body class="hold-transition sidebar-mini layout-fixed">
+<div class="wrapper">
+
+  <!-- Preloader -->
+  <div class="preloader flex-column justify-content-center align-items-center">
+    <h1>Bitacora SMI</h1>
+  </div>
+
+
+  <!-- Main Sidebar Container -->
+  <aside class="main-sidebar sidebar-dark-primary elevation-4">
+    <!-- Brand Logo -->
+    <!-- Sidebar -->
+    <div class="sidebar">
+      <!-- Sidebar user panel (optional) -->
+      <div class="user-panel mt-3 pb-3 mb-3 d-flex">
+        <div class="info">
+          <h6>@User.Identity?.Name</h6>
+        </div>
+      </div>
+
+ 
+<partial name ="_SidebarBitacoraMenu" />
+    </div>
+    <!-- /.sidebar -->
+  </aside>
+
+
+    <!-- Main content -->
+    <section class="content">
+    <div class="container-fluid">
+
+        <table class="table">
+  <thead>
+    <tr>
+      <th scope="col">#</th>
+      <th scope="col">First</th>
+      <th scope="col">Last</th>
+      <th scope="col">Handle</th>
+    </tr>
+  </thead>
+  <tbody>
+    
+                        @foreach(var item in Model)
+                        {
+                             <tr>
+      <th scope="row">@item.ClaveUsuario</th>
+      <td>@item.DuracionMinutos</td>
+      <td>@item.HoraSalida</td>
+      <td>@item.HoraEntrada</td>
+
+      <td>@item.NombreUsuario</td>
+    </tr>
+                            
+                        }
+                       
+
+  </tbody>
+</table>
+
+
+    </div>
+    </section>
+    <!-- /.content -->
+  </div>
+  <!-- /.content-wrapper -->
+  <footer class="main-footer">
+
+  </footer>
+
+=
+</div>
+<!-- ./wrapper -->
+</body>

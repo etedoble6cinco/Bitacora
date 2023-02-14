@@ -1,5 +1,7 @@
 ﻿using BitacoraAPP.Models;
+using BitacoraAPP.Services;
 using Microsoft.AspNetCore.Mvc;
+
 using System.Diagnostics;
 
 namespace BitacoraAPP.Controllers
@@ -7,26 +9,28 @@ namespace BitacoraAPP.Controllers
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
-
+        private readonly IBitacoraService _bitacoraService;
         public HomeController(ILogger<HomeController> logger)
         {
             _logger = logger;
         }
 
-        public IActionResult Index()
+        public async Task<IActionResult> Index()
         {
-            return View();
-        }
+            try
+            {
+                
+                return View();
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e.Message.ToString());
+                return NotFound();
+            }
 
-        public IActionResult Privacy()
-        {
-            return View();
+          
         }
+    
 
-        [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
-        public IActionResult Error()
-        {
-            return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
-        }
     }
 }

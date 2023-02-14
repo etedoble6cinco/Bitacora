@@ -1,5 +1,6 @@
 using BitacoraAPP.Data;
 using BitacoraAPP.Services;
+using BitacoraAPP.Services.ActivationServices;
 using Hangfire;
 using Hangfire.SqlServer;
 using Microsoft.AspNetCore.Identity;
@@ -20,6 +21,18 @@ builder.Services.AddTransient<IUsuarioEmpleadoService,UsuarioEmpleadoService>();
 builder.Services.AddTransient<IBitacoraService,BitacoraService>();
 builder.Services.AddTransient<IEmailService,EmailService>();
 builder.Services.AddTransient<IExcellReportService,ExcellReportService>();
+builder.Services.AddTransient<IActivationGeneralReportService, ActivationGeneralReportService>();
+builder.Services.AddDistributedMemoryCache();
+builder.Services.AddSession(options =>
+{
+    options.IdleTimeout = TimeSpan.FromMinutes(60);
+});
+builder.Services.AddAuthentication().AddCookie(options =>
+{
+    options.LoginPath = "/Home";
+    options.LogoutPath = "/Home";
+});
+
 builder.Services.AddHangfire(z => z.SetDataCompatibilityLevel(CompatibilityLevel.Version_170).UseSimpleAssemblyNameTypeSerializer()
 .UseRecommendedSerializerSettings().UseSqlServerStorage(connectionString, new SqlServerStorageOptions
 {
@@ -53,7 +66,11 @@ app.UseRouting();
 
 app.UseAuthentication();
 app.UseAuthorization();
-app.UseHangfireDashboard(); 
+app.UseHangfireDashboard();
+RecurringJob.AddOrUpdate<IActivationGeneralReportService>("Enviando email de reporte general", servicio =>  
+servicio.ActivateGeneralReportService(), Cron.Weekly(DayOfWeek.Wednesday,8));               
+RecurringJob.AddOrUpdate<IBitacoraService>("Se inicio el corte de la Bitacora", servicio => 
+servicio.InsertCorteBitacoraService(), Cron.Daily(22));
 app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}");

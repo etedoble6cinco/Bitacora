@@ -9,6 +9,6 @@
         public string HoraEntrada { get; set; }
         public string DuracionMinutos { get; set; }
         public int IdUsuario { get; set; }
-        public int CerrarRegistro { get; set; }
+        public int CerrarRegistro { get; set; } = 0;
     }
 }

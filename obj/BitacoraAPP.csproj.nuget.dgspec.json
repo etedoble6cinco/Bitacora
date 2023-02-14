@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\BitacoraAPP.csproj": {}
+    "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\BitacoraAPP.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\BitacoraAPP.csproj": {
+    "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\BitacoraAPP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\BitacoraAPP.csproj",
+        "projectUniqueName": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\BitacoraAPP.csproj",
         "projectName": "BitacoraAPP",
-        "projectPath": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\BitacoraAPP.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Documents\\GitHub\\Bitacora\\obj\\",
+        "projectPath": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\BitacoraAPP.csproj",
+        "packagesPath": "C:\\Users\\analista.sistemas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\analista.sistemas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -43,6 +47,10 @@
             "Dapper": {
               "target": "Package",
               "version": "[2.0.123, )"
+            },
+            "EPPlus": {
+              "target": "Package",
+              "version": "[6.0.4, )"
             },
             "Hangfire": {
               "target": "Package",
@@ -74,9 +82,9 @@
               "target": "Package",
               "version": "[6.0.13, )"
             },
-            "OfficeOpenXml.Core.ExcelPackage": {
+            "System.ComponentModel.Annotations": {
               "target": "Package",
-              "version": "[1.0.0, )"
+              "version": "[5.0.0, )"
             }
           },
           "imports": [
@@ -85,8 +93,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -98,7 +105,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.308\\RuntimeIdentifierGraph.json"
         }
       }
     }
