@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "cb0qurz6ouk6iLudx704g8CxeasGGsCUZl3FzXKFPxk=",
+  "Hash": "ThhgJuUe88gmkMpHJngpipGkTktdatcFU0LKAjm1Oxg=",
   "Source": "BitacoraAPP",
   "BasePath": "_content/BitacoraAPP",
   "Mode": "Default",
@@ -1086,6 +1086,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\Excel\\Empleados2e534a0b-6bc5-411e-b8d2-075eab39eb0e13-2-2023.xlsx",
+      "SourceId": "BitacoraAPP",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\",
+      "BasePath": "_content/BitacoraAPP",
+      "RelativePath": "Excel/Empleados2e534a0b-6bc5-411e-b8d2-075eab39eb0e13-2-2023.xlsx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Excel\\Empleados2e534a0b-6bc5-411e-b8d2-075eab39eb0e13-2-2023.xlsx"
     },
     {
       "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\Excel\\Empleados6892d3f5-fd7c-4f71-95ab-ffd02a99330b13-2-2023.xlsx",
