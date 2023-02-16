@@ -9,7 +9,7 @@
         public string UserName { get; set; } = "analista.sistemas@smimx.net";
         public string Password { get; set; } = "Suq70797";
         public string EmailHeader { get; set; } = "Reporte de Entradas/Salidas";
-        public string EmailSubject { get; set; } = "TESTING HANGFIRE";
+        public string EmailSubject { get; set; } = "SMI Reporte E/S";
 
     }
 }

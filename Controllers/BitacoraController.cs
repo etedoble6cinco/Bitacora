@@ -18,5 +18,7 @@ namespace BitacoraAPP.Controllers
             return View(ListaUsuarios);
             
         }
+
+        
     }
 }
