@@ -76,6 +76,7 @@ namespace BitacoraAPP.Models.AssetConsultViewModels
         [Display(Name = "Modificado por")]
         public string ModifiedBy { get; set; }
         public bool Cancelled { get; set; }
+        public string ImageString { get; set; }
 
     }
 }

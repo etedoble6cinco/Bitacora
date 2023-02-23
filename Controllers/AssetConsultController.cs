@@ -26,11 +26,11 @@ namespace BitacoraAPP.Controllers
         [AllowAnonymous]
         public async Task<IActionResult> GetAssetConsult(int Id)
         {
-            AssetAllinfoViewModel assetAllinfoViewModel =new AssetAllinfoViewModel();
+
             if (Id > 0)
             {
-                assetAllinfoViewModel = await _assetConsultService.GetAssetAllInfoByIdAsync(Id);
-                return View(assetAllinfoViewModel);
+               
+                return View(await _assetConsultService.GetAssetAllInfoByIdAsync(Id));
             }
             else
             {

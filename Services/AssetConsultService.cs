@@ -10,6 +10,11 @@ namespace BitacoraAPP.Services
     {
 
         private readonly string connectionString = "Server=SMI-SS-WEBSERV1;Database=AMSDev;User ID=serversmi;Password=adminserver123!;MultipleActiveResultSets=true;Persist Security Info=False";
+        private readonly ICommon _common;
+        public AssetConsultService(ICommon common)
+        {
+            _common = common;   
+        }
         public async Task<AssetConsultViewModel> GetAssetByIdAsync(int id)
         {
             AssetConsultViewModel asset = new AssetConsultViewModel();
@@ -43,7 +48,8 @@ namespace BitacoraAPP.Services
                     asset.QRCode = assetConsulted.QRCode;
                     asset.QRCodeImage = assetConsulted.QRCodeImage;
                     asset.SpecifySupplier = assetConsulted.SpecifySupplier;
-                    asset.ImageURL = "https://192.168.10.4:5032" + assetConsulted.ImageURL;
+                    Uri AssetImageUri = new Uri("http://192.168.10.4:5032" + assetConsulted.ImageURL);
+                    asset.ImageString = await _common.GetImageHttpClientAsync(AssetImageUri);
                     asset.CreatedDate = assetConsulted.CreatedDate;
                     asset.ModifiedDate = assetConsulted.ModifiedDate;
                     asset.CreatedBy =  assetConsulted.CreatedBy;
