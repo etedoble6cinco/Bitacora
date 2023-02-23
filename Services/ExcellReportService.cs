@@ -59,8 +59,8 @@ public class ExcellReportService : IExcellReportService
             foreach (var empleados in ListaUsuarios)
             {
 
-                worksheet.Cells[initialRow, 1].Value = empleados.ClaveUsuarios;
-                worksheet.Cells[initialRow, 2].Value = empleados.NombreUsuarios;
+                worksheet.Cells[initialRow, 1].Value = empleados.ClaveUsuario;
+                worksheet.Cells[initialRow, 2].Value = empleados.NombreUsuario;
                 worksheet.Cells[initialRow, 3].Value = empleados.HoraSalida;
                 worksheet.Cells[initialRow, 3].Value = empleados.HoraSalida;
                 worksheet.Cells[initialRow, 4].Value = empleados.HoraEntrada;

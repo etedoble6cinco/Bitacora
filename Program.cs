@@ -22,6 +22,7 @@ builder.Services.AddTransient<IBitacoraService,BitacoraService>();
 builder.Services.AddTransient<IEmailService,EmailService>();
 builder.Services.AddTransient<IExcellReportService,ExcellReportService>();
 builder.Services.AddTransient<IActivationGeneralReportService, ActivationGeneralReportService>();
+builder.Services.AddTransient<IAssetConsultService, AssetConsultService>();
 builder.Services.AddDistributedMemoryCache();
 builder.Services.AddSession(options =>
 {

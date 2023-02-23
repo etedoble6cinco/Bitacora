@@ -24,7 +24,7 @@ namespace BitacoraAPP.Services
         public async Task<List<ListarEmpleadosGeneralReport>> GetReporteBitacoraService()
         {
 
-            var procedure = "getusuariosreport2";
+            var procedure = "getusuariosreport";
             try
             {
                 using (var connection = new SqlConnection(connectionString))
@@ -95,7 +95,7 @@ namespace BitacoraAPP.Services
         {
             try
             {
-                var procedure = "getusuariosreport";
+                var procedure = "getusuariosreport2";
                 using (var connection = new SqlConnection(connectionString))
                 {
                     var ListaUsuarios = await connection.QueryAsync<ListaEmpleadosDashboard>(procedure,

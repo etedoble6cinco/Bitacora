@@ -1,0 +1,167 @@
+﻿@model BitacoraAPP.Models.AssetConsultViewModels.AssetAllinfoViewModel;
+@{
+}
+
+
+     <div class="card" style="width: 100%;">
+  <img class="card-img-top" src="@Model.AssetConsultViewModel.ImageURL" alt="Card image cap">
+  <div class="card-body">
+    <h5 class="card-title">
+     <strong> @Model.AssetConsultViewModel.AssetId</strong> </h5>
+  </div>
+  <ul class="list-group list-group-flush">
+      
+    <li class="list-group-item">
+      
+
+        <div id="accordion">
+  <div class="card">
+    <div class="card-header" id="headingOne">
+      <h5 class="mb-0">
+        <button class="btn btn-link" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+         Asset Details
+        </button>
+      </h5>
+    </div>
+
+    <div id="collapseOne" class="collapse " aria-labelledby="headingOne" data-parent="#accordion">
+      <div class="card-body">
+        <form>
+        <fieldset disabled>
+            <legend>Asset Details</legend>
+               <div class="form-group">
+                   <label for="AssetModelNo">@Html.DisplayNameFor(m => m.AssetConsultViewModel.AssetModelNo)</label>
+                <input name="AssetModelNo" class="form-control form-control-lg" value="@Model.AssetConsultViewModel.AssetModelNo" /> 
+               </div>
+                <div  class="form-group">
+                    <label for="Description">@Html.DisplayNameFor(m => m.AssetConsultViewModel.Description)</label>
+                <input name="Description"class="form-control form-control-lg" value="@Model.AssetConsultViewModel.Description" />
+                
+                </div>
+                <div class="form-group">
+                 <label for="Category">@Html.DisplayNameFor(m => m.AssetConsultViewModel.CategoryDisplay)</label>
+                <input name="Category" class="form-control form-control-lg" value="@Model.AssetConsultViewModel.CategoryDisplay" /> 
+               
+                </div>
+                <div class="form-group">
+                <label for="UnitPrice">@Html.DisplayNameFor(m => m.AssetConsultViewModel.UnitPrice)</label>
+                <input name="UnitPrice" class="form-control form-control-lg" value="@Model.AssetConsultViewModel.UnitPrice" />
+
+                </div>
+                
+                <div class="form-group">
+                    <label for="Supplier">@Html.DisplayNameFor(m => m.AssetConsultViewModel.SpecifySupplier)</label>
+                    <input name="Supplier" class="form-control form-control-lg" value="@Model.AssetConsultViewModel.SpecifySupplier"/>
+
+                </div>
+                <div class="form-group">
+                    <label for="Location">@Html.DisplayNameFor(m => m.AssetConsultViewModel.Location)</label>
+                    <input name="Location" class="form-control form-control-lg"  value="@Model.AssetConsultViewModel.Location"/>
+
+                </div>     
+                <div class="form-group">
+                    <label for="Location">@Html.DisplayNameFor(m => m.AssetConsultViewModel.Note)</label>
+                    <input name="Location" class="form-control form-control-lg"  value="@Model.AssetConsultViewModel.Note"/>
+
+                </div>
+                 <div class="form-group">
+                    <label for="DateOfPurchase">@Html.DisplayNameFor(m => m.AssetConsultViewModel.DateOfPurchase)</label>
+                    <input name="DateOfPurchase" class="form-control form-control-lg" value="@Model.AssetConsultViewModel.DateOfPurchase" />
+                </div> 
+                <div class="form-group">
+                    <label for="DateOfPurchase">@Html.DisplayNameFor(m => m.AssetConsultViewModel.DateOfPurchase)</label>
+                    <input name="DateOfPurchase" class="form-control form-control-lg" value="@Model.AssetConsultViewModel.DateOfPurchase" />
+                </div>    
+                <div class="form-group">
+                    <label for="DateOfPurchase">@Html.DisplayNameFor(m => m.AssetConsultViewModel.DateOfManufacture)</label>
+                    <input name="DateOfPurchase" class="form-control form-control-lg" value="@Model.AssetConsultViewModel.DateOfManufacture" />
+                </div>
+                <div class="form-group">
+                    <label for="DateOfPurchase">@Html.DisplayNameFor(m => m.AssetConsultViewModel.YearOfValuation)</label>
+                    <input name="DateOfPurchase" class="form-control form-control-lg" value="@Model.AssetConsultViewModel.YearOfValuation" />
+                </div>
+               <div class="form-group">
+                    <small class="help-text"><strong>Fecha de Creacion :</strong>@Model.assetUserProfileView.CreatedDate</small> <br />
+                    <small class="help-text"><strong>Fecha de Modificacion :</strong>@Model.assetUserProfileView.ModifiedDate</small><br />
+                    <small class="help-text"><strong>Creado por :</strong>@Model.assetUserProfileView.CreatedBy</small><br />
+                    <small class="help-text"><strong>Modificado por :</strong>@Model.assetUserProfileView.ModifiedBy</small>
+                </div>
+     
+      
+        </fieldset>
+        </form>
+      
+      
+      
+      </div>
+    </div>
+  </div>
+  <div class="card">
+    <div class="card-header" id="headingTwo">
+      <h5 class="mb-0">
+        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+          Employee Assigned Details
+        </button>
+      </h5>
+    </div>
+    <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
+      <div class="card-body">
+          <form>
+        <fieldset disabled>
+            <legend>Employee Assigned Details</legend>
+               <div class="form-group">
+                   <label for="FirstName">Nombre</label>
+                <input name="FirstName" class="form-control form-control-lg" value="@Model.assetUserProfileView.FirstName  @Model.assetUserProfileView.LastName" /> 
+               </div>
+                <div  class="form-group">
+                    <label for="CodigoEmpleado">@Html.DisplayNameFor(m => m.assetUserProfileView.EmployeeCode)</label>
+                <input name="CodigoEmpleado"class="form-control form-control-lg" value="@Model.assetUserProfileView.EmployeeCode" />
+                
+                </div>
+                <div class="form-group">
+                 <label for="Email">@Html.DisplayNameFor(m => m.assetUserProfileView.Email)</label>
+                <input name="Email" class="form-control form-control-lg" value="@Model.assetUserProfileView.Email" /> 
+               
+                </div>
+                <div class="form-group">
+                <label for="Email">@Html.DisplayNameFor(m => m.assetUserProfileView.PhoneNumber)</label>
+                <input name="Email" class="form-control form-control-lg" value="@Model.assetUserProfileView.PhoneNumber" />
+
+                </div>
+                
+                <div class="form-group">
+                    <label for="UserName">@Html.DisplayNameFor(m => m.assetUserProfileView.UserName)</label>
+                    <input name="UserName" class="form-control form-control-lg" value="@Model.assetUserProfileView.UserName"/>
+                   
+                </div>
+            
+                <div class="form-group">
+                    <small class="help-text"><strong>Fecha de Creacion :</strong>@Model.assetUserProfileView.CreatedDate</small> <br />
+                    <small class="help-text"><strong>Fecha de Modificacion :</strong>@Model.assetUserProfileView.ModifiedDate</small><br />
+                    <small class="help-text"><strong>Creado por :</strong>@Model.assetUserProfileView.CreatedBy</small><br />
+                    <small class="help-text"><strong>Modificado por :</strong>@Model.assetUserProfileView.ModifiedBy</small>
+                </div>
+          
+     
+      
+        </fieldset>
+        </form>
+      
+      
+      </div>
+    </div>
+  </div>
+
+</div>
+
+
+
+    </li>
+
+  
+  </ul>
+  <div class="card-body">
+    <a href="#" class="card-link">More asset like this type..</a>
+    <a href="#" class="card-link">More asset assigned to this employee..</a>
+  </div>
+</div>

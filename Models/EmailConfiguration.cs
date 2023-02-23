@@ -8,8 +8,8 @@
         public int Port { get; set; } = 587;
         public string UserName { get; set; } = "analista.sistemas@smimx.net";
         public string Password { get; set; } = "Suq70797";
-        public string EmailHeader { get; set; } = "Reporte de Entradas/Salidas";
-        public string EmailSubject { get; set; } = "SMI Reporte E/S";
+        public string EmailHeader { get; set; } = "REPORTE SMI DE E/S";
+        public string EmailSubject { get; set; } = "SMI REPORTE GENERAL DE ENTRADAS & SALIDAS DE EMPLEADOS";
 
     }
 }
