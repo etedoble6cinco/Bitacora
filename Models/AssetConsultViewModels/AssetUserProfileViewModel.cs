@@ -5,30 +5,30 @@ namespace BitacoraAPP.Models.AssetConsultViewModels
     public class AssetUserProfileViewModel
     {
 
-        [Display(Name = "Nombre de Empleado Asignado")]
+        [Display(Name = "Employee Full Name")]
         public string FirstName { get; set; }
-        [Display(Name = "Apellido")]
+
         public string LastName { get; set; }
         [Display(Name ="Email SMI")]
         public string Email { get; set; }
         [Display(Name="Num Extension")]
         public string PhoneNumber { get; set; }
-        [Display(Name ="Codigo de Empleado")]
+        [Display(Name ="Employee Code")]
         public string EmployeeCode { get; set; }
-        [Display(Name = "Nombre de Usuario")]
+        [Display(Name = "User Name")]
         public string UserName { get; set; }
         public bool EmailConfirmed { get; set; }
 
         public int AssignEmployeeId { get; set; }
         public string ProfilePicture { get; set; }
-        [Display(Name ="Fecha de Creacion")]
+        [Display(Name ="Created Date")]
         public DateTime CreatedDate { get; set; }
-        [Display(Name = "Fecha de Modificacion")]
+        [Display(Name = "Modified Date")]
         public DateTime ModifiedDate { get; set; }
-        [Display(Name = "Creado por")]
+        [Display(Name = "Created By")]
         public string CreatedBy { get; set; }
         
-        [Display(Name = "Modificado por")]
+        [Display(Name = "Modified By")]
         public string ModifiedBy { get; set; }
         public bool Cancelled { get; set; }
     }

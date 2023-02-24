@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "OaK/pqM7/iuXG30+mdWzxQtjE7WvdHZFZUKNx9q+G7c=",
+  "Hash": "4f2+bzsCXDFt4xm4n2LeSG7txJeABuix2rlCBeygrm8=",
   "Source": "BitacoraAPP",
   "BasePath": "_content/BitacoraAPP",
   "Mode": "Default",
@@ -1307,6 +1307,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\js\\PreviewPurchaseReceipt.js",
+      "SourceId": "BitacoraAPP",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\",
+      "BasePath": "_content/BitacoraAPP",
+      "RelativePath": "js/PreviewPurchaseReceipt.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\PreviewPurchaseReceipt.js"
     },
     {
       "Identity": "C:\\Users\\analista.sistemas\\Documents\\GitHub\\Bitacora\\BitacoraAppDEV\\BitacoraAPP\\wwwroot\\js\\site.js",

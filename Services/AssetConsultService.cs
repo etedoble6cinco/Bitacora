@@ -28,33 +28,45 @@ namespace BitacoraAPP.Services
                     {
                         IdAsset = id
                     }, commandType: CommandType.StoredProcedure);
-                    asset.Id = assetConsulted.Id;
-                    asset.Name = assetConsulted.AssetModelNo;
-                    asset.AssetId = assetConsulted.Name;
-                    asset.AssetModelNo = assetConsulted.AssetModelNo;
-                    asset.Description = assetConsulted.Description;
-                    asset.Quantity = assetConsulted.Quantity;
-                    asset.UnitPrice = assetConsulted.UnitPrice;
-                    asset.Location = assetConsulted.Location;
-                    asset.ImageURL = assetConsulted.ImageURL;
-                    asset.PurchaseReceipt = assetConsulted.PurchaseReceipt;
-                    asset.DateOfPurchase = assetConsulted.DateOfPurchase;
-                    asset.DateOfManufacture = assetConsulted.DateOfPurchase;
-                    asset.YearOfValuation = assetConsulted.YearOfValuation;
-                    asset.AssignEmployeeId = assetConsulted.AssetStatus;
-                    asset.IsAvilable = assetConsulted.IsAvilable;
-                    asset.Note = assetConsulted.Note;
-                    asset.Barcode = assetConsulted.Barcode;
-                    asset.QRCode = assetConsulted.QRCode;
-                    asset.QRCodeImage = assetConsulted.QRCodeImage;
-                    asset.SpecifySupplier = assetConsulted.SpecifySupplier;
-                    Uri AssetImageUri = new Uri("http://192.168.10.4:5032" + assetConsulted.ImageURL);
-                    asset.ImageString = await _common.GetImageHttpClientAsync(AssetImageUri);
-                    asset.CreatedDate = assetConsulted.CreatedDate;
-                    asset.ModifiedDate = assetConsulted.ModifiedDate;
-                    asset.CreatedBy =  assetConsulted.CreatedBy;
-                    asset.ModifiedBy = assetConsulted.ModifiedBy;
-                    asset.Cancelled = assetConsulted.Cancelled;
+                    if(assetConsulted != null)
+                    {
+                        asset.Id = assetConsulted.Id;
+                        asset.Name = assetConsulted.Name;
+                        asset.AssetId = assetConsulted.AssetId;
+                        asset.AssetModelNo = assetConsulted.AssetModelNo;
+                        asset.Description = assetConsulted.Description;
+                        asset.Quantity = assetConsulted.Quantity;
+                        asset.UnitPrice = assetConsulted.UnitPrice;
+                        asset.Location = assetConsulted.Location;
+                        asset.ImageURL = assetConsulted.ImageURL;
+                        asset.PurchaseReceipt = assetConsulted.PurchaseReceipt;
+                        asset.DateOfPurchase = assetConsulted.DateOfPurchase;
+                        asset.DateOfManufacture = assetConsulted.DateOfManufacture;
+                       
+                        asset.YearOfValuation = assetConsulted.YearOfValuation;
+                        asset.AssignEmployeeId = assetConsulted.AssetStatus;
+                        asset.IsAvilable = assetConsulted.IsAvilable;
+                        asset.Note = assetConsulted.Note;
+                        asset.Barcode = assetConsulted.Barcode;
+                        asset.QRCode = assetConsulted.QRCode;
+                        asset.QRCodeImage = assetConsulted.QRCodeImage;
+                        asset.SpecifySupplier = assetConsulted.SpecifySupplier;
+                        Uri AssetImageUri = new Uri("http://192.168.10.4:5032" + assetConsulted.ImageURL);
+                        asset.ImageString = await _common.GetImageHttpClientAsync(AssetImageUri);
+                        asset.CreatedDate = assetConsulted.CreatedDate;
+                        asset.ModifiedDate = assetConsulted.ModifiedDate;
+                        asset.CreatedBy = assetConsulted.CreatedBy;
+                        asset.ModifiedBy = assetConsulted.ModifiedBy;
+                        asset.Cancelled = assetConsulted.Cancelled;
+                        asset.AssetStatus = assetConsulted.AssetStatus;
+                        if(assetConsulted.PurchaseReceipt != null)
+                        {
+                            asset.PurchaseReceipt = "http://192.168.10.4:5032"+assetConsulted.PurchaseReceipt;
+                        }
+                        
+
+                    }
+
                    
                 }
             

@@ -3,11 +3,14 @@
 }
 
 
-     <div class="card" style="width: 100%;">
+     <div class="card shadow" style="width: 100%;">
   <img class="card-img-top" src="@Model.AssetConsultViewModel.ImageString" alt="Card image cap">
   <div class="card-body">
-    <h5 class="card-title">
-     <strong> @Model.AssetConsultViewModel.AssetId</strong> </h5>
+  <div class="card-title">
+    <p> <strong>@Model.AssetConsultViewModel.AssetId</strong> <br />
+
+    <small class="help-text">@Model.AssetConsultViewModel.Description</small></p> 
+</div>
   </div>
   <ul class="list-group list-group-flush">
       
@@ -27,9 +30,58 @@
     <div id="collapseOne" class="collapse " aria-labelledby="headingOne" data-parent="#accordion">
       <div class="card-body">
         <form>
-        <fieldset disabled>
-            <legend>Asset Details</legend>
-               <div class="form-group">
+                                <fieldset disabled>        
+                                    @{
+                                        switch (@Model.AssetConsultViewModel.AssetStatus)
+                                        {
+                                            case 1:
+                                               <legend><small class="badge badge-primary text-wrap">
+                                                              New
+                                                            </small></legend>
+                                                break;
+                                            case 2:
+                                                 <legend><small class="badge badge-warning text-wrap">
+                                                              In Use
+                                                            </small></legend>
+                                                break;
+                                            case 3:
+                                                 <legend><small class="badge badge-success text-wrap">
+                                                              Available
+                                                            </small></legend>
+                                                break;
+                                            case 4:
+                                                 <legend><small class="badge badge-danger text-wrap">
+                                                              Damage
+                                                            </small></legend>
+                                                break;
+                                            case 5:
+                                                 <legend><small class="badge badge-info text-wrap">
+                                                              Return
+                                                            </small></legend>
+                                                break;
+                                            case 6:
+                                                 <legend><small class="badge badge-secondary text-wrap">
+                                                              Process of repair
+                                                            </small></legend>
+                                                break;
+                                            case 7:
+                                                 <legend><small class="badge badge-muted text-wrap">
+                                                              Required License Update
+                                                            </small></legend>
+                                                break;
+                                            case 8:
+                                                 <legend><small class="badge badge-dark text-wrap">
+                                                             Miscellaneous
+                                                            </small></legend>
+                                                break;
+                                        }
+                                    }
+                             
+            <div class="container">
+
+                <div class="row">
+                    <div class="col-6">
+                                 <div class="form-group">
                    <label for="AssetModelNo">@Html.DisplayNameFor(m => m.AssetConsultViewModel.AssetModelNo)</label>
                 <input name="AssetModelNo" class="form-control form-control-lg" value="@Model.AssetConsultViewModel.AssetModelNo" /> 
                </div>
@@ -42,19 +94,19 @@
                  <label for="Category">@Html.DisplayNameFor(m => m.AssetConsultViewModel.CategoryDisplay)</label>
                 <input name="Category" class="form-control form-control-lg" value="@Model.AssetConsultViewModel.CategoryDisplay" /> 
                
-                </div>
+                </div> 
                 <div class="form-group">
-                <label for="UnitPrice">@Html.DisplayNameFor(m => m.AssetConsultViewModel.UnitPrice)</label>
-                <input name="UnitPrice" class="form-control form-control-lg" value="@Model.AssetConsultViewModel.UnitPrice" />
-
+                 <label for="Department">@Html.DisplayNameFor(m => m.AssetConsultViewModel.Department)</label>
+                <input name="Department" class="form-control form-control-lg" value="@Model.AssetConsultViewModel.DepartmentDisplay" /> 
                 </div>
-                
                 <div class="form-group">
                     <label for="Supplier">@Html.DisplayNameFor(m => m.AssetConsultViewModel.SpecifySupplier)</label>
                     <input name="Supplier" class="form-control form-control-lg" value="@Model.AssetConsultViewModel.SpecifySupplier"/>
 
                 </div>
-                <div class="form-group">
+                    </div>
+                    <div class="col-6">
+ <div class="form-group">
                     <label for="Location">@Html.DisplayNameFor(m => m.AssetConsultViewModel.Location)</label>
                     <input name="Location" class="form-control form-control-lg"  value="@Model.AssetConsultViewModel.Location"/>
 
@@ -67,32 +119,29 @@
                  <div class="form-group">
                     <label for="DateOfPurchase">@Html.DisplayNameFor(m => m.AssetConsultViewModel.DateOfPurchase)</label>
                     <input name="DateOfPurchase" class="form-control form-control-lg" value="@Model.AssetConsultViewModel.DateOfPurchase" />
-                </div> 
-                <div class="form-group">
-                    <label for="DateOfPurchase">@Html.DisplayNameFor(m => m.AssetConsultViewModel.DateOfPurchase)</label>
-                    <input name="DateOfPurchase" class="form-control form-control-lg" value="@Model.AssetConsultViewModel.DateOfPurchase" />
-                </div>    
+                </div>   
                 <div class="form-group">
                     <label for="DateOfPurchase">@Html.DisplayNameFor(m => m.AssetConsultViewModel.DateOfManufacture)</label>
                     <input name="DateOfPurchase" class="form-control form-control-lg" value="@Model.AssetConsultViewModel.DateOfManufacture" />
                 </div>
-                <div class="form-group">
-                    <label for="DateOfPurchase">@Html.DisplayNameFor(m => m.AssetConsultViewModel.YearOfValuation)</label>
-                    <input name="DateOfPurchase" class="form-control form-control-lg" value="@Model.AssetConsultViewModel.YearOfValuation" />
+               <div class="form-group rounded shadow-sm">
+                    <small class="help-text m-1"><strong>@Html.DisplayNameFor(m => m.AssetConsultViewModel.CreatedDate):</strong>@Model.AssetConsultViewModel.CreatedDate</small> <br />
+                    <small class="help-text m-1"><strong>@Html.DisplayNameFor(m => m.AssetConsultViewModel.ModifiedDate):</strong>@Model.AssetConsultViewModel.ModifiedDate</small><br />
+                    <small class="help-text m-1"><strong>@Html.DisplayNameFor(m => m.AssetConsultViewModel.CreatedBy):</strong>@Model.AssetConsultViewModel.CreatedBy</small><br />
+                    <small class="help-text m-1"><strong>@Html.DisplayNameFor(m => m.AssetConsultViewModel.ModifiedBy):</strong>@Model.AssetConsultViewModel.ModifiedBy</small>
                 </div>
-               <div class="form-group">
-                    <small class="help-text"><strong>Fecha de Creacion :</strong>@Model.assetUserProfileView.CreatedDate</small> <br />
-                    <small class="help-text"><strong>Fecha de Modificacion :</strong>@Model.assetUserProfileView.ModifiedDate</small><br />
-                    <small class="help-text"><strong>Creado por :</strong>@Model.assetUserProfileView.CreatedBy</small><br />
-                    <small class="help-text"><strong>Modificado por :</strong>@Model.assetUserProfileView.ModifiedBy</small>
+                    </div>
                 </div>
-     
+            </div>
       
+               
+              
+         <!-- Button trigger modal -->
         </fieldset>
-        </form>
-      
-      
-      
+        </form> 
+          <div class="form-group">
+                    <a class="btn btn-primary" href="@Model.AssetConsultViewModel.PurchaseReceipt">View purchase receipt</a>
+                </div>
       </div>
     </div>
   </div>
@@ -108,44 +157,74 @@
       <div class="card-body">
           <form>
         <fieldset disabled>
-            <legend>Employee Assigned Details</legend>
-               <div class="form-group">
-                   <label for="FirstName">Nombre</label>
+           
+
+
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+                        <div class="form-group">
+                   <label for="FirstName">@Html.DisplayNameFor(m => m.assetUserProfileView.FirstName)</label>
                 <input name="FirstName" class="form-control form-control-lg" value="@Model.assetUserProfileView.FirstName  @Model.assetUserProfileView.LastName" /> 
                </div>
-                <div  class="form-group">
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-4">
+                        <div  class="form-group">
                     <label for="CodigoEmpleado">@Html.DisplayNameFor(m => m.assetUserProfileView.EmployeeCode)</label>
                 <input name="CodigoEmpleado"class="form-control form-control-lg" value="@Model.assetUserProfileView.EmployeeCode" />
                 
                 </div>
-                <div class="form-group">
+                </div>
+                    <div class="col-4">
+                        <div class="form-group">
                  <label for="Email">@Html.DisplayNameFor(m => m.assetUserProfileView.Email)</label>
                 <input name="Email" class="form-control form-control-lg" value="@Model.assetUserProfileView.Email" /> 
                
                 </div>
-                <div class="form-group">
+                    </div>
+                    <div class="col-4">
+                            <div class="form-group">
                 <label for="Email">@Html.DisplayNameFor(m => m.assetUserProfileView.PhoneNumber)</label>
                 <input name="Email" class="form-control form-control-lg" value="@Model.assetUserProfileView.PhoneNumber" />
 
                 </div>
-                
-                <div class="form-group">
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-6">
+                         <div class="form-group">
                     <label for="UserName">@Html.DisplayNameFor(m => m.assetUserProfileView.UserName)</label>
                     <input name="UserName" class="form-control form-control-lg" value="@Model.assetUserProfileView.UserName"/>
                    
                 </div>
-            
-                <div class="form-group">
-                    <small class="help-text"><strong>Fecha de Creacion :</strong>@Model.assetUserProfileView.CreatedDate</small> <br />
-                    <small class="help-text"><strong>Fecha de Modificacion :</strong>@Model.assetUserProfileView.ModifiedDate</small><br />
-                    <small class="help-text"><strong>Creado por :</strong>@Model.assetUserProfileView.CreatedBy</small><br />
-                    <small class="help-text"><strong>Modificado por :</strong>@Model.assetUserProfileView.ModifiedBy</small>
+                    </div>
+                    <div class="col-6">
+                        <div class="form-group shadow-sm">
+                    <small class="help-text m-1"><strong>@Html.DisplayNameFor(m => m.assetUserProfileView.CreatedDate):</strong> @Model.assetUserProfileView.CreatedDate</small> <br />
+                    <small class="help-text m-1"><strong>@Html.DisplayNameFor(m => m.assetUserProfileView.ModifiedDate):</strong>@Model.assetUserProfileView.ModifiedDate</small><br />
+                    <small class="help-text m-1"><strong>@Html.DisplayNameFor(m => m.assetUserProfileView.CreatedBy):</strong>   @Model.assetUserProfileView.CreatedBy</small><br />
+                    <small class="help-text m-1"><strong>@Html.DisplayNameFor(m => m.assetUserProfileView.ModifiedBy):</strong>  @Model.assetUserProfileView.ModifiedBy</small>
                 </div>
+                </div>
+                    </div>
+                </div>
+               </fieldset>
+        </form>
+            </div>
+               
+               
+                
+            
+                
+               
+            
+               
           
      
       
-        </fieldset>
-        </form>
+     
       
       
       </div>
@@ -160,8 +239,9 @@
 
   
   </ul>
-  <div class="card-body">
-    <a href="#" class="card-link">More asset like this type..</a>
-    <a href="#" class="card-link">More asset assigned to this employee..</a>
-  </div>
 </div>
+
+
+
+
+

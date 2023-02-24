@@ -19,7 +19,7 @@ namespace BitacoraAPP.Models.AssetConsultViewModels
 
         public string Description { get; set; }
         public int Category { get; set; }
-        [Display(Name ="Categoria")]
+        [Display(Name ="Category")]
         public string CategoryDisplay { get; set; }
 
         public string SubCategoryDisplay { get; set; }
@@ -30,6 +30,7 @@ namespace BitacoraAPP.Models.AssetConsultViewModels
         public string SupplierDisplay { get; set; }
         [Display(Name = "US or MX Purchase")]
         public string Location { get; set; }
+            [Display(Name = "Department")]
         public int Department { get; set; }
         public string DepartmentDisplay { get; set; }
         [Display(Name = "Sub Department")]
@@ -64,16 +65,16 @@ namespace BitacoraAPP.Models.AssetConsultViewModels
         public string Barcode { get; set; }
         public string QRCode { get; set; }
         public string QRCodeImage { get; set; }
-        [Display(Name="Proveedor")]
+        [Display(Name="Brand")]
         public string SpecifySupplier { get; set; }
-        [Display(Name = "Fecha de Creacion")]
+        [Display(Name = "Created Date")]
         public DateTime CreatedDate { get; set; }
-        [Display(Name = "Fecha de Modificacion")]
+        [Display(Name = "Modified Date")]
         public DateTime ModifiedDate { get; set; }
-        [Display(Name = "Creado por")]
+        [Display(Name = "Created By")]
         public string CreatedBy { get; set; }
 
-        [Display(Name = "Modificado por")]
+        [Display(Name = "Modified By")]
         public string ModifiedBy { get; set; }
         public bool Cancelled { get; set; }
         public string ImageString { get; set; }
